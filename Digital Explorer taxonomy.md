@@ -2,10 +2,10 @@
 
 The DE platform hosts 4 areas of knowledge
 
-Industry and technology trends : DE module 
-Client Innovation agendas : BVR module
-DXC business\Industry solutions : SE module
-Workspaces : DEW module
++Industry and technology trends : DE module 
++Client Innovation agendas : BVR module
++DXC business\Industry solutions : SE module
++Workspaces : DEW module
 
 *Note : The Explorer modules do not extend the taxonomy model
 
@@ -17,7 +17,23 @@ The taxonomies below are shared across the full knowledge graph and the informat
 |Industry|Top level industry group |Manufacturing or Banking|
 |Sub industry|related child industry of the top level industry | Automotive or High Tech under Manufacturing |
 |Industry Value Chain|A value chain is a process or activity within an industry, which provides direct internal or external benefit or revenue | Business Models, Aftermarket care, Customer Experience, Design)
-|Technology Group | | 
+|Technology Group |logical group within the technology area to capture and track technology | 
+|Physical meets Digital|The connection of the physical world to the digital environment; capabilities such as Internet of Things and 3D printing and bridging the gap between physical and digital environments.|
+|Business Process & Information|Technology Group - Business processes provided as a consumer service; can be used to provide the end-2-end business process or used in combination with one or more services or processes|
+|Applications|Technology Group - Capabilities to design, develop, deliver and manage computer applications
+|Data & Analytics|Technology Group - The means to store and analyse data sets to provide informed insights based on the information available||
+Security|Technology Group - Provides the validation and protection of IT systems from unauthenticated access, theft or physical damage|
+|Infrastructure|Technology Group - Capabilities to deliver an infrastructure service, from Server hardware, operating systems, virtualization and cloud computing.|
+|Network|Technology Group - The means to exchange data; could be both cabled or wireless communications. Also includes network to network communications and interconnects|
+|System Management & Operations|Technology Group - Defines the people, processes and tools required to deliver and manage part or the complete IT system.|
+|Business Technical Assessment & Design|Technology Group - Architecture and consultancy methods to ensure the value from IT can be realized by the business.|
+|Integration & Composition|Technology Group - Provides the ability to integrate one or more distributed services or systems into a controlled environment. Composition extends this further with the ability to create new solutions from a catalog of approved services.|
+|Trend|A general direction or change within a given area|
+|Emerging|Idea inception, market research and feasibility investigations|
+|Leading Edge|Adopted by challengers with no legacy systems or processes|
+|Early Adopters|Ambitious companies who are quick to follow|
+|Mainstream|Widespread adoption across leading players in the market|
+|Late Adopters|Catch up of the market to near universal adoption||
 
 
 ### Business Value Roadmaps
