@@ -2,14 +2,14 @@
 
 The DE platform hosts 4 areas of knowledge
 
-+Industry and technology trends : DE module 
-+Client Innovation agendas : BVR module
-+DXC business\Industry solutions : SE module
-+Workspaces : DEW module
+* Industry and technology trends : DE module 
+* Client Innovation agendas : BVR module
+* DXC business\Industry solutions : SE module
+* Workspaces : DEW module
 
-*Note : The Explorer modules do not extend the taxonomy model
+**Note** : The Explorer module does not extend the taxonomy model
 
-The taxonomies below are shared across the full knowledge graph and the information is grouped based on the master cluster\module within the graph.
+The taxonomies below are shared across the full knowledge graph and the information is grouped based on the master cluster\module within the graph.  For example, both the Business Value Roadmaps and Solution Explorer modules follow the same industry taxonomy as defined within Digital Explorer.
 
 ### Digital Explorer 
 |Term |Description|Example
@@ -61,8 +61,27 @@ Security|Technology Group - Provides the validation and protection of IT systems
 ### Solution Explorer
 |Term |Description|Example
 |-----|-----------|-------
+|Elevator Pitch | Short description of the solution | How would the solution be tweeted? 
+|Solution Desription | Long description of the solution
+|Solution Status |Current status of the solution | Concept, Prototype, pilot, production
+|Solution Value Proposition|
+|Motivations | Business motivations related to the need/driver triggering the need for the solution | consider trends within Digital Explorer 
+|Features : Offering | DXC offerings used within the solutions |
+|Features : Method | Metholodgy applied or followed to deliver the solution| Agile
+|Features : Dataset | Details of any datasets used within the solution, can be open or private data |
+|Features : Component | General component used within the solution, which falls outside of the DXC offerings |
+|Feature sets | Logical grouping of one or more features into a indiviudual configuration profile within the solution
+|Solution Roles | Defintion of people and roles assoicated with the solution | Solution Owner, UX Lead, Architect | 
+|Offering Family| Top level grouping of the offering families within the Solution | Mobility and workplace | 
+|Category| Logical grouping used to identify the type of solution |IOT | *could be removed with the direct connection of trends*
+|Tag| free form text to allow users to group solutions |Solution Olympics, Gartner 2017 | 
+|Referencable| Flag to identify if a solution can be shared with external clients | 
 
 
 ###Workspaces
 |Term |Description|Example
 |-----|-----------|-------
+|Workspace Name| name of the workspace|
+|Workspace member | any person with access to the workspace|
+|workspace card | generic term for any object placed within the workspace canvas | a solution, a trend|
+|Workspace Note | free text note related to with the overall workshop or an indivdual card |
