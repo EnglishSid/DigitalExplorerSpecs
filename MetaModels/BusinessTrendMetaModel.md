@@ -2,9 +2,9 @@
 ![BusinessTrendMetaModel.png](../images/BusinessTrendMetaModel.png)
 
 
-###**Node Definitions**
+####**Node Definitions**
 
-####Node Label: BusinessTrend
+#####Node Label: BusinessTrend
 
 |Property|default value (if any)|
 |----|----|
@@ -16,7 +16,7 @@
 
 
 
-####Node Label: BusinessTrendLink
+#####Node Label: BusinessTrendLink
 
 |Property|default value (if any)|
 |----|----|
@@ -24,7 +24,7 @@
 |Description  
 
 
-####Node Label: BusinessArea
+#####Node Label: BusinessArea
 
 |Property|default value (if any)|
 |----|----|
@@ -32,7 +32,7 @@
 |Name|
 |Description  
 
-####Node Label: SubIndustry
+#####Node Label: SubIndustry
 
 |Property|default value (if any)|
 |----|----|
@@ -40,7 +40,7 @@
 |Name|as defined within SFDC
 |Description  
 
-####Node Label: Industry
+#####Node Label: Industry
 
 |Property|default value (if any)|
 |----|----|
@@ -49,7 +49,7 @@
 |Description  
 
 
-####Node Label: Person
+#####Node Label: Person
 
 |Property|default value (if any)|
 |----|----|
@@ -58,7 +58,7 @@
 |email|as defined in Global Pass
 
 
-###Relationships
+####Relationships
 
 |Source|Destination|Name|Properties|
 |----|----|----|----|
