@@ -1,5 +1,5 @@
 
-![BusinessTrendMetaModel.png](.images/BusinessTrendMetaModel.png)
+![BusinessTrendMetaModel.png](../images/BusinessTrendMetaModel.png)
 
 
 ###**Node Definitions**
