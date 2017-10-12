@@ -53,6 +53,7 @@
 
 #####Node Label: Person
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -61,6 +62,7 @@ Readonly
 
 #####Node Label: TechnologyTrend
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -69,6 +71,7 @@ Readonly
 
 #####Node Label: BusinessTrend
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -77,6 +80,7 @@ Readonly
 
 #####Node Label: SubIndustry
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -85,6 +89,7 @@ Readonly
 
 #####Node Label: Industry
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -93,6 +98,7 @@ Readonly
 
 #####Node Label: Account
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -100,6 +106,7 @@ Readonly
 
 #####Node Label: Category
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -107,6 +114,7 @@ Readonly
 
 #####Node Label: offeringFamily
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -114,6 +122,7 @@ Readonly
 
 #####Node Label: technologyGroup
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
@@ -122,6 +131,7 @@ Readonly
 
 #####Node Label: FeatureCategory
 Readonly
+
 |Property|default value (if any)|
 |----|----|
 |id|system generated
