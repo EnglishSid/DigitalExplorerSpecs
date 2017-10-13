@@ -17,7 +17,9 @@
 |----|----|
 |id|system generated
 |text|
-|workspaceID|
+|description|
+|creationDate|
+|validUntil
 
 #####Node Label: ClientValueChain
 
@@ -88,7 +90,7 @@
 |Account|InnovationAgenda|ASSOICATED
 |InnovationAgenda|ClientValueChain|ASSOICATED
 |InnovationAgenda|AgendaGoal|ASSOICATED
-|Person|Account|ASSIGNED {role}
+|Person|Account|ASSIGNED|{role}
 |Account|Region|ASSIGNED
 |Account|SubIndustry|ACCOUNT_TO_SUBINDUSTRY
 |Stakeholder|InnovationAgenda|ASSIGNED
