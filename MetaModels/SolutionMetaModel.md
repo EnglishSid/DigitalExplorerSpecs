@@ -59,6 +59,7 @@ Readonly
 |id|system generated
 |Name|as defined in Global Pass
 |email|as defined in Global Pass
+|ObjectClass|Archimate_Product
 
 #####Node Label: TechnologyTrend
 Readonly
