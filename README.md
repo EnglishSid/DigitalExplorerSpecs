@@ -1,11 +1,27 @@
-# DigitalExplorer #
+## DigitalExplorer 
 
-Public repo to share and discuss the architectural elements of Digital Explorer 
+* [Release Notes](ReleaseNotes)
+* [Weekly Numbers](WeeklyNumbers.md)
 
-view the wiki for release notes and other details
+### Meta Models
+* [Complete Model](MetaModels/completeModel.md)
+* [Business Trends MetaModel](MetaModels/BusinessTrendMetaModel.md)
+* [Technology Trends Metamodel](MetaModels/TechnologyTrendMetaModel.md)
+* [Agendas Metamodel](MetaModels/AgendaMetaModel.md)
+* [Solutions MetaModel](MetaModels/SolutionMetaModel.md)
+* [Workspace metamodel](MetaModels/WorkspaceMetaModel.md)
 
-issues or enhancement requests?   use the issues section
+### Digital Explorer Neo4j Sandbox 
 
-contact davidstevens@dxc.com for more details
+* [Access to the Neo4j sandbox](Sandbox/SandboxInstance.md)
+* [Basic Neo Queries](Sandbox/basicQueries.md)
+* [What should we ask the Graph?](Sandbox/GraphAnalytics.md)
+* [Anchor points](Sandbox/anchorPoints.md)
 
-updates
+#### Sandbox projects
+* [DE and Twitter](Sandbox/Projects/DETwitter.md)
+* [TSS Import](https://github.dxc.com/ArchitectureOffice/DigitalExplorer_TSS_Integration)
+
+### Contacts
+
+* Product Owner/Architect : David Stevens (davidstevens@dxc.com)
