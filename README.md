@@ -3,6 +3,12 @@
 * [Release Notes](ReleaseNotes)
 * [Weekly Numbers](WeeklyNumbers.md)
 
+### A day in the life
+
+* [TrendSpotter](aDayintheLife/trendSpotter.md)
+* [Innovation Lead](aDayintheLife/innovationLead.md)
+* [Knowledge Hunter](aDayintheLife/KnowledgeHunter.md)
+
 ### Meta Models
 * [Complete Model](MetaModels/completeModel.md)
 * [Business Trends MetaModel](MetaModels/BusinessTrendMetaModel.md)
@@ -25,3 +31,4 @@
 ### Contacts
 
 * Product Owner/Architect : David Stevens (davidstevens@dxc.com)
+* [Regional Leads](regionalLeads.md)
