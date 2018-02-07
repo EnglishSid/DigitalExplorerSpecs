@@ -36,9 +36,9 @@ maybe top-down?
 
 
 ### Missing pieces
-* capturing signals
-* joint program = future Solutions entry
-* power of the connected graph - discover more than just library of solutions, discover other similar agendas, workspaces, discussions.
+* Capturing signals
+* Joint program = future Solutions entry
+* Power of the connected graph - discover more than just library of solutions, discover other similar agendas, workspaces, discussions.
 * Machine Learning to find matches
 
 
