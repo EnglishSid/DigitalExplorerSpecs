@@ -1,8 +1,6 @@
 ## The Innovation Leader
 
-![trendSpotter](images/theInnovator.png)
-
-maybe top-down?
+![trendSpotter](images/Shape.png)
 
 **typical profile/role**
 * Account CT
@@ -10,14 +8,7 @@ maybe top-down?
 * Industry Leader
 
 
-### Activities
-
-* Discovers
-    * Researches client's industry within Digital Explorer | Trends
-    * (optional) - creates new team workspace
-        * add first trend
-        * invites team/colleugaes to worksplace
-        * iterate on adding trends, solutions, notes, attachments, views, thoughts
+## Shape
 
 * Creates innovation agenda
     * leverages homework (Digital Explorer | Workspace, personal notes, github notebook)
@@ -40,5 +31,3 @@ maybe top-down?
 * Joint program = future Solutions entry
 * Power of the connected graph - discover more than just library of solutions, discover other similar agendas, workspaces, discussions.
 * Machine Learning to find matches
-
-
