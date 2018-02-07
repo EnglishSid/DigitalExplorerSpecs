@@ -4,5 +4,5 @@
 
 * [TrendSpotter](trendSpotter.md)
 * Innovation Lead
-*   [Understand](Understand.md)
-*    [Shape](Shape.md)
+    * [Understand](Understand.md)   
+    * [Shape](Shape.md)
