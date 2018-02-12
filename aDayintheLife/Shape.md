@@ -7,7 +7,6 @@
 * Solution Lead
 * Industry Leader
 
-
 ## Shape
 
 * Creates innovation agenda
@@ -17,14 +16,13 @@
     * iterates on content with internal team
         * the right disruptors?
         * do we understand the enabling technology?
-        * Discovers DXC capabilties
+        * Discovers DXC capabilities
             * demos, prototypes, offerings, existing client solutions
     * reviews/discusses with client
         * iterates on content
-        * showcases discovered DXC capabilties
+        * showcases discovered DXC capabilities
         * calls out joint focus areas
         * outlined joint program/program
-
 
 ### Missing pieces
 * Capturing signals

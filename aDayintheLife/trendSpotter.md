@@ -14,13 +14,13 @@
 
 ### Activities
 * Discovers
-    * Reads industry articile\tweet
-    * Discusses "thing" with client,collegagues, 3rd parties
+    * Reads industry articles\tweets\blogs
+    * Discusses "thing" with client, colleagues, 3rd parties
 
 * Shares
     * Tweet\Retweets (low effort)
     * Post to workplace groups (low effort)
-    * Shares via Digital Explorer (medium effort - need to login to DE)
+    * Shares via Digital Explorer (medium effort - needs to login to DE)
 
 #### Why post into Digital Explorer?
 * Primary
@@ -34,7 +34,7 @@
     * Builds your profile within the company
         * future tech honours and award programs should (will) review contribution to enterprise knowledge
 
-## Future scenerios
+## Future sceneries
 * Route 1 : Digital Explorer integration with Workplace - pre-populates an entry - informs person - revises - informs review board - posts into DE
 * Route 2 : Digital Explorer integration with Workplace - pre-populates an entry - informs review board - posts into DE
 * Route 3 : Digital Explorer integration with Workplace - pre-populates an entry - posts into DE

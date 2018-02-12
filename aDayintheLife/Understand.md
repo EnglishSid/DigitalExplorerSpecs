@@ -2,7 +2,6 @@
 
 ![trendSpotter](images/Understand.png)
 
-
 **typical profile/role**
 * Account CT
 * Solution Lead
@@ -14,7 +13,7 @@
     * Researches client's industry within Digital Explorer | Trends
     * (optional) - creates new team workspace
         * add first trend
-        * invites team/colleugaes to worksplace
+        * invites team/colleagues to worksplace
         * iterate on adding trends, solutions, notes, attachments, views, thoughts
 
 ### Missing pieces
