@@ -1,12 +1,12 @@
 ##### Users
-|w/c|Trends|Solutions|Agendas|Workspaces
-|---|----|---|---|---|
+|w/c|Trends|Solutions|Agendas|Workspaces| |
+|---|----|---|---|---|---|
 02-Oct|	144|35	|21|	2|
 09-Oct|	301|	113|	25|	7|
 16-Oct|	132|	51	|28|	2|
 23-Oct|	217|	70	|26|	4|
 30-Oct|	175|	79|	21|	11|
-06-Nov|	692|	249|	19|	9|  <--mydxc newsletter
+06-Nov|	692|	249|	19|	9|  <--mydxc newsletter|
 13-Nov|	407|	161|	14|	14|
 20-Nov|166|	64|	12|4
 27-Nov|	156|	71|10|4	
@@ -20,9 +20,10 @@
 22-Jan|142|42|6|3
 29-Jan|113|35|11|4
 5-Feb|78|36|12|5
+11-Feb|91|33|16|5
 
 ##### Page views
-|w/c|Trends|Solutions|Agendas|Workspaces
+|w/c|Trends|Solutions|Agendas|Workspaces|
 |---|----|---|---|---|
 |02-Oct|672|245|877|7
 |09-Oct|1867|528|255|29
@@ -43,3 +44,4 @@
 22-Jan|825|396|1|2
 29-Jan|730|499|69|20
 5-Feb|527|392|124|19
+11-Feb|581|281|255|16
