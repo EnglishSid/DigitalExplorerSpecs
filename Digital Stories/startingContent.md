@@ -23,4 +23,7 @@ Turtle playbooks
 
 LEF Content
 
+Innovation Shifts to the Human Platform: Are You Ready?
+https://leadingedgeforum.com/publication/human-platform-paper/
+
 ----
