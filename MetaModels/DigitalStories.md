@@ -1,8 +1,8 @@
 ![BModel](https://github.dxc.com/ArchitectureOffice/DigitalExplorer/blob/master/images/StoryMetaModel.png)
 
-####**Node Definitions**
+### **Node Definitions**
 
-#####Node Label: Story
+#### Node Label: Story
 
 |Property|default value (if any)|
 |----|----|
@@ -14,7 +14,7 @@
 |textColour|1
 
 
-####Relationships
+#### Relationships
 
 |Source|Destination|Name|Properties|
 |----|----|----|----|
