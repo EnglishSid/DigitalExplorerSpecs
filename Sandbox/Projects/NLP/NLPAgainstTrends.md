@@ -1,5 +1,5 @@
 
-Trend name = Trend Description
+Trend Description = Trend Name
 ~~~
 MATCH (bt:BusinessTrend)-[ASSIGNED]->(btl:BusinessTrendLink)<-[ASSIGNED_VIA]-(ba:BusinessArea)-[VALUEOF]->(si:SubIndustry)
 WHERE bt.name=bt.description
@@ -37,9 +37,7 @@ return bt.name, bt2.name, bt2.description
 ~~~~
 
 ## GraphAware NLP
-https://github.com/graphaware/neo4j-nlp
 
-installed the plugins
 
 testing against one trend
 
