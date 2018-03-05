@@ -27,3 +27,10 @@ Innovation Shifts to the Human Platform: Are You Ready?
 https://leadingedgeforum.com/publication/human-platform-paper/
 
 ----
+
+
+Solutions
+
+https://digitalexplorer.dxc.com/se/solutions/406930
+https://digitalexplorer.dxc.com/se/solutions/406674
+
