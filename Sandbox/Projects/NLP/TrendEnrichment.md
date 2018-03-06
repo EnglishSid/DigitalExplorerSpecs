@@ -16,6 +16,3 @@ Use the WikiData to prepare a list of potential values to overwrite the current 
 https://www.wikidata.org/w/api.php?action=wbsearchentities&search=3d%20printing&language=en&format=json
 ~~~
 
-
-
-
