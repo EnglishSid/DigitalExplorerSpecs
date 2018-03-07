@@ -17,6 +17,9 @@ Virtual Operating Theater – A mixed reality application used for laying out op
 https://video.dxc.com/media/t/0_m4vvudwb
 
 
-tags : DXC TechTalk, DXC Demos
+DXC Open Health Connect
+DXC Open Health Connect is an innovative, open platform that enables better outcomes for patients by delivering contextual and actionable insights to serve users across the healthcare ecosystem. 
+http://www.dxc.technology/providers/offerings/139495/144103-dxc_open_health_connect
 
 
+tags : DXC TechTalk, DXC Demos, HIMSS
