@@ -1,1 +1,0 @@
-![DE Stack](https://github.dxc.com/ArchitectureOffice/DigitalExplorer/blob/master/images/DE%20Stack.PNG)
