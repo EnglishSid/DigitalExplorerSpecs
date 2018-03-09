@@ -89,6 +89,9 @@
     "caption": "{name}"
   },
   "node.Industry": {
+     "color": "#0570B0",
+    "border-color": "#0570B0",
+    "text-color-internal": "#FFFFFF",
     "caption": "{name}"
   },
   "node.Type": {
