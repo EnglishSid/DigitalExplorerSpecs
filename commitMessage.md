@@ -12,9 +12,12 @@
 | Style updates              | :lipstick: `:lipstick:`
 | general cleanup            | :wastebasket: `:wastebasket:`
 | Work in Progress           | :construction: `:construction:`
-| Mockups                    | :art: `:art:`
-|
-
+| Templates & Mockups        | :art: `:art:`
+| Graph Models               | :anchor: `:anchor:`
+| Digital Stories            | :books: `:books:`
+| Training Videos            | :movie_camera: `:movie_camera:`
+| Technical Architecture     | :european_post_office: `:european_post_office:`
+|  
 
 #### References
 * https://gitmoji.carloscuesta.me/
