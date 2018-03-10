@@ -78,6 +78,9 @@
     "caption": "{name}"
   },
   "node.Person": {
+    "color": "#ADDD8E",
+    "border-color": "#ADDD8E",
+    "text-color-internal": "#FFFFFF",
     "defaultCaption": "<id>",
     "caption": "{email}"
   },
