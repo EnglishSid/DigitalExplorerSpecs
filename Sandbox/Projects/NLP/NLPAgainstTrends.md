@@ -1,3 +1,5 @@
+#NLP review
+
 
 Trend name = Trend Description
 ~~~
@@ -13,7 +15,6 @@ MATCH  (bt:BusinessTrend)-[ASSIGNED]->(btl:BusinessTrendLink)<-[ASSIGNED_VIA]-(b
 WHERE  bt.description=btl.description
 RETURN bt.name, bt.description, btl.description, ba.name,si.name
 ~~~~
-
 
 description contains name
 ~~~~
@@ -38,8 +39,7 @@ return bt.name, bt2.name, bt2.description
 
 ## GraphAware NLP
 
-
-testing against one trend
+### testing against one trend
 
 ~~~
 MATCH (n:BusinessTrend) where n.name="Internet of Things"
@@ -77,7 +77,3 @@ Find all Business trends with the same Tag
 
 MATCH (BT:BusinessTrend)-[1..5]-(T:Tag)
 RETURN BT,T
-
-
-
-
