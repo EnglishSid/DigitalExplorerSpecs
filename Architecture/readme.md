@@ -1,3 +1,4 @@
+# Digital Explorer Architecture views
 
 ## Highlevel stack view 
 
