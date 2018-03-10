@@ -12,7 +12,6 @@ Various videos grouped as
 * solution module
 * Release notes
 
-
 ## YouTube
 
 * [Intro Video](https://www.youtube.com/watch?v=ogFs2DUgjOc&list=PLq1o2yzXiW7UZLqvQT_PQfAn6vuhMQRNZ&index=1)
