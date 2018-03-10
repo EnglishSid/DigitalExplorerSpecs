@@ -10,8 +10,8 @@
 | Weekly numbers             | :chart_with_upwards_trend: `:chart_with_upwards_trend:`|
 | Updating team members      | :busts_in_silhouette: `:busts_in_silhouette:`|
 | Style updates              | :lipstick: `:lipstick:`
-| general cleanup            | :Wastebasket: `:Wastebasket:`
-| Work in Progress           | :Construction: `:Construction:`
+| general cleanup            | :Wastebasket: `:wastebasket:`
+| Work in Progress           | :Construction: `:construction:`
 | Mockups                    | :art: `:art:`
 |
 
