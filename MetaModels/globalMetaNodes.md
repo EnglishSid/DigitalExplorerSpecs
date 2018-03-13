@@ -13,6 +13,7 @@ Changes to these have a wide ranging impact to all modules within Digital Explor
 DXC industry taxonomy
 
 **Used in**
+
 |   | Trends| Agenda | Solutions | Workspaces | Explorer|
 |---|---    |---     |---        |--          |---      |
 |   | X     | X      | X         |            |     X   |
