@@ -8,20 +8,20 @@ Changes to these have a wide ranging impact to all modules within Digital Explor
 * Update - updates applied to both META_ and live data nodes
 * Delete - Deleted from META_ , only delete from LIVE if no relationship to other nodes are in place
 
-
 ## Industry & Sub-Industry
 DXC industry taxonomy
 
 **Used in**
-| | Trends| Agenda | Solutions | Workspaces | Explorer|
-|---|---|---|---|---|---|
-| | X | X | X | | X|
 
+|   | Trends| Agenda | Solutions | Workspaces | Explorer|
+|---|---    |---     |---        |--          |---      |
+|   | X     | X      | X         |            |     X   |
 
 ## Offering Family
 DXC offering family names 
 
 **Used in**
+
 | | Trends| Agenda | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | |  |  | X | | X|
@@ -30,6 +30,7 @@ DXC offering family names
 Master list of available roles to assign to people
 
 **Used in**
+
 | | Trends| Agenda | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | | X | X | X | | |
@@ -39,6 +40,7 @@ Master list of available roles to assign to people
 Master list of technology groups
 
 **Used in**
+
 | | Trends| Agenda | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | | X |  | X | | X |
@@ -47,6 +49,7 @@ Master list of technology groups
 Master list of available documentation types
 
 **Used in**
+
 | | Trends| Agenda | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | | |  | X | X |  |
@@ -55,6 +58,7 @@ Master list of available documentation types
 Reference node for all people assoicated with any module, action or node within the database.
 
 **Used in**
+
 | | Trends| Agenda | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | |X |X  | X | X |X  |
