@@ -1,4 +1,4 @@
-![TechModel](https://github.dxc.com/ArchitectureOffice/DigitalExplorer/blob/master/images/TechTrendMetaModel.png)
+![TechModel](../images/TechTrendMetaModel.png)
 
 
 ####**Node Definitions**

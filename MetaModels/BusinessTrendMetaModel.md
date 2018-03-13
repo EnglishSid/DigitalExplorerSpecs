@@ -1,5 +1,5 @@
 
-![BModel](https://github.dxc.com/ArchitectureOffice/DigitalExplorer/blob/master/images/BusinessTrendModel.png)
+![BModel](../images/BusinessTrendModel.png)
 
 
 ####**Node Definitions**

@@ -1,7 +1,7 @@
 ## Meta Models
 
 * [Complete Model](completeModel.md)
-* [Global Meta Nodes](GlobalMetaNodes.md)
+* [Global Meta Nodes](globalMetaNodes.md)
 * [Business Trends](BusinessTrendMetaModel.md)
 * [Technology Trends](TechnologyTrendMetaModel.md)
 * [Digital Stories](DigitalStories.md)

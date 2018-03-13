@@ -1,4 +1,4 @@
-![](https://github.dxc.com/ArchitectureOffice/DigitalExplorer/blob/master/images/SolutionMetaModel.png)
+![](../images/SolutionMetaModel.png)
 
 Note : Any nodes with a solid border are a connection point across the graph model 
 

@@ -1,5 +1,5 @@
 
-![AgendaModel](https://github.dxc.com/ArchitectureOffice/DigitalExplorer/blob/master/images/AgendaModel.png)
+![AgendaModel](../images/AgendaModel.png)
 
 ####**Node Definitions**
 

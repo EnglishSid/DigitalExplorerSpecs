@@ -1,4 +1,4 @@
-![WorkspaceModel](https://github.dxc.com/ArchitectureOffice/DigitalExplorer/blob/master/images/workspacesMetaModel.png)
+![WorkspaceModel](../images/workspacesMetaModel.png)
 
 ####**Node Definitions**
 
