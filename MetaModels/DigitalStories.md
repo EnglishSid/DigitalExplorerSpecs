@@ -1,4 +1,4 @@
-![BModel](https://github.dxc.com/ArchitectureOffice/DigitalExplorer/blob/master/images/StoryMetaModel.png)
+![BModel](../images/StoryMetaModel.png)
 
 ### **Node Definitions**
 
