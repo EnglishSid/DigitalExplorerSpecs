@@ -1,6 +1,6 @@
-# User Authenication
+# User Authentication
 
-User authenication is managed through DXC Global Pass.  Anyone with a valid global pass account has access to the digital explorer platform
+User authentication is managed through DXC Global Pass.  Anyone with a valid global pass account has access to the digital explorer platform
 
 
 # Platform Roles
