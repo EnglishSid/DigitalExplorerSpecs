@@ -15,4 +15,10 @@ Topics for Neo workshop March 28th
 - Similarity searches
     - near matches for trend names
 
+
+# Other points
+
+- neo browser preformance 
+
+
 # recommended next steps
