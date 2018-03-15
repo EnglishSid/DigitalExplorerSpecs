@@ -13,7 +13,7 @@ Digital Explorer is the enterprise knowledge graph for DXC
 
 DE is not a data lake, DE is a living dataset.  The knowledge is used from within graph to shape the other DE modules. 
 
-
+* [DEMindMap](deMindMap.md)
 * [Release Notes](ReleaseNotes)
 * [Weekly Numbers](WeeklyNumbers.md)
 
