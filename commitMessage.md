@@ -17,7 +17,7 @@
 | Digital Stories            | :books: `:books:`
 | Training Videos            | :movie_camera: `:movie_camera:`
 | Technical Architecture     | :european_post_office: `:european_post_office:`
-|  
+| Architecture 2             | :building_construction: `:building_construction:`
 
 #### References
 * https://gitmoji.carloscuesta.me/
