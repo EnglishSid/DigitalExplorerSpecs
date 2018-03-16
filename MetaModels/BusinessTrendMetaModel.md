@@ -2,63 +2,66 @@
 ![BModel](../images/BusinessTrendModel.png)
 
 
-####**Node Definitions**
+### **Node Definitions**
 
-#####Node Label: BusinessTrend
+#### Node Label: BusinessTrend
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
-|Name |
-|Description  
-|Source
-|Reference
+|Name |short name of the trend
+|Description | extended description of the trend
+|Source | free text to idenify the source of trend 
+|Reference | option URI link to the source material
 
 
+#### Node Label: BusinessTrendLink
 
-#####Node Label: BusinessTrendLink
-
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
-|Description  
+|Description | industry use case description for a single trend
 
 
-#####Node Label: BusinessArea
+#### Node Label: Industry
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
-|Name|
-|Description  
+|Name|top level industry - aligned with DXC taxonomy
+|Description | extended description for the industry
 
-#####Node Label: SubIndustry
+#### Node Label: SubIndustry
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
-|Name|as defined within SFDC
-|Description  
+|Name|industry segment - aligned with DXC taxonomy
+|Description | extended description for the sub-industry 
 
-#####Node Label: Industry
+ #### Node Label: BusinessArea
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
-|Name|as defined within SFDC
-|Description  
+|Name| short text for the name of the business area
+|Description | extended description of the business area
 
 
-#####Node Label: Person
+## Reused system nodes
 
-|Property|default value (if any)|
+#### Node Label: Person
+
+Auto generated when user logs in
+
+|Property|Description|
 |----|----|
 |id|system generated
 |Name|as defined in Global Pass
 |email|as defined in Global Pass
 
 
-####Relationships
+### Relationships
 
 |Source|Destination|Name|Properties|
 |----|----|----|----|

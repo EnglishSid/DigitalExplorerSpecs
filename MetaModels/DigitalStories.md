@@ -4,14 +4,24 @@
 
 #### Node Label: Story
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
-|Name |
-|Description  
-|restricted
-|imagelarge
-|textColour|1
+|name | short title for the story
+|description | extended description for the story
+|restricted | boolean - identifies if the content is restricted to DXC employees only
+|imagelarge | URI to the story banner
+|textColour| boolean white or black text
+
+#### Node Label: Person
+
+Auto generated when user logs in
+
+|Property|Description|
+|----|----|
+|id|system generated
+|Name|as defined in Global Pass
+|email|as defined in Global Pass
 
 
 #### Relationships

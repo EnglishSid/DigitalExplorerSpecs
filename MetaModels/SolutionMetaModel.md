@@ -2,14 +2,14 @@
 
 Note : Any nodes with a solid border are a connection point across the graph model 
 
-####**Node Definitions**
+### **Node Definitions**
 
-#####Node Label: Solution
+#### Node Label: Solution
 Scope : Top level object for solutions
 Architecture Layer : Business
 Ratio : 1
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |ObjectClass|Archimate_Product
@@ -22,21 +22,19 @@ Ratio : 1
 |referenceable|No |
 |searchable|Yes |
 
-<br>
 
-#####Node Label: Motivation
+####Node Label: Motivation
 Scope : Key Business drivers and goals
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |ObjectClass|Archimate_Driver
 |Name |
 |Description |
 
-<br>
 
 #####Node Label: TechnologyTrend
 
@@ -44,33 +42,31 @@ Scope :  Readonly - selected from trend catalog
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 |Description  
 
-<br>
 
 #####Node Label: BusinessTrend
 Scope :  Readonly - selected from trend catalog
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 |Description  
 
-<br>
 
-#####Node Label: Feature
+##### Node Label: Feature
 Scope :  Component or element within the solution
 Architecture Layer : Functional 
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |ObjectClass|Archimate_Service
@@ -78,149 +74,138 @@ Ratio : 1:n
 |Description  
 
 
-<br>
-
-#####Node Label: FeatureSet
+#### Node Label: FeatureSet
 Scope :  Allows grouping of features into logical groups
 Architecture Layer : Functional 
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 |Description  
 
 
-<br>
 
-#####Node Label: Person
+
+#### Node Label: Person
 Scope : Queried against Person nodes within database - Readonly
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name|as defined in Global Pass
 |email|as defined in Global Pass
 
 
-<br>
 
-#####Node Label: SubIndustry
+
+#### Node Label: SubIndustry
 Scope : identification of target industries (2nd level)
 Readonly  - defined within master dictionary 
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 |Description  
 
-<br>
 
-#####Node Label: Industry
+
+#### Node Label: Industry
 Scope : identification of target industry (top level)
 Readonly - defined within master dictionary 
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 |Description  
 
-<br>
 
-#####Node Label: Account
+#### Node Label: Account
 Readonly - defined within master dictionary 
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 
 
-<br>
-
-#####Node Label: solutionType
+#### Node Label: solutionType
 Scope : high level definition of the type of solution being described (e.g. demo, partner, client, DXC offering)
 Readonly - defined within master dictionary 
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 
 
-<br>
-
-#####Node Label: Category
+#### Node Label: Category
 Scope : Allows a solution to be grouped within a logical set of solutions, outside of the organisation or industry views (e.g. data analytics)  
 Readonly - defined within master dictionary 
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 
-<br>
 
-#####Node Label: offeringFamily
+#### Node Label: offeringFamily
 Scope : defines the the top level offering families involved within the creation of the solution
 Readonly - defined within master dictionary 
 Ratio : 1:n
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 
-<br>
-
-#####Node Label: technologyGroup
+#### Node Label: technologyGroup
 Scope : defines the placement of the feature within the technical view (e.g application, infra)
 Readonly - defined within master dictionary 
 Ratio : 1:1
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 |Description  
 
-<br>
 
-#####Node Label: FeatureCategory
+#### Node Label: FeatureCategory
 Scope : defines the type of features (e.g. offering, method, client owned)
 Readonly - defined within master dictionary 
 Ratio : 1:1
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 |Description  |
 
-#####Node Label: SolutionType
+#### Node Label: SolutionType
 Scope : defines the type of Solution
 Readonly - defined within master dictionary 
 Ratio : 1:1
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 
-####Relationships
+### Relationships
 |Source|Destination|Name|Properties|
 |----|----|----|----|
 |Motivation|Solution|INFLUENCE

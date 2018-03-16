@@ -1,11 +1,11 @@
 ![TechModel](../images/TechTrendMetaModel.png)
 
 
-####**Node Definitions**
+### **Node Definitions**
 
-#####Node Label: TechnologyTrend
+#### Node Label: TechnologyTrend
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
@@ -13,18 +13,21 @@
 |Source
 |Reference
 
+### Reused system nodes
 
-#####Node Label: TechnologyGroup
+#### Node Label: TechnologyGroup
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 |Description  
 
-#####Node Label: Person
+#### Node Label: Person
 
-|Property|default value (if any)|
+Auto generated when user logs in
+
+|Property|Description|
 |----|----|
 |id|system generated
 |Name|as defined in Global Pass
@@ -33,8 +36,7 @@
 
 |email|as defined in Global Pass
 
-
-####Relationships
+### Relationships
 
 |Source|Destination|Name|Properties|
 |----|----|----|----|

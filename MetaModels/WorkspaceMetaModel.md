@@ -1,26 +1,26 @@
 ![WorkspaceModel](../images/workspacesMetaModel.png)
 
-####**Node Definitions**
+### **Node Definitions**
 
-#####Node Label: Workspace
+#### Node Label: Workspace
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name |
 
 
-#####Node Label: Workspace Note
+#### Node Label: Workspace Note
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |text|
 |workspaceID|
 
-#####Node Label: Attachment
+#### Node Label: Attachment
 
-|Property|default value (if any)|
+|Property|Description|
 |----|----|
 |id|system generated
 |Name|
@@ -29,7 +29,7 @@
 |uri|
 
 
-####Relationships
+#### Relationships
 
 |Source|Destination|Name|Properties|
 |----|----|----|----|
