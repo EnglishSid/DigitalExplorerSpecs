@@ -12,15 +12,15 @@ Ratio : 1
 |Property|Description|
 |----|----|
 |id|system generated
-|ObjectClass|Archimate_Product
-|Name |
-|Description |
-|elevatorPitch |
-|generalValue |
-|creationDate |
-|lastModificationDate |
-|referenceable|No |
-|searchable|Yes |
+|objectClass|system generated value = Archimate_Product
+|name |name of the solution
+|description |extended description of the solution
+|elevatorPitch |short description of the solution - 140 character max
+|generalValue |value proposition 
+|creationDate |system generated creation date
+|lastModificationDate |system generated last modified date
+|referenceable|boolean value to set if solution is externally referencable - default = no
+|searchable|boolean value to set if the solution is returned in the search results - default = yes
 
 
 ####Node Label: Motivation
@@ -31,9 +31,9 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|ObjectClass|Archimate_Driver
-|Name |
-|Description |
+|objectClass|Archimate_Driver
+|name |
+|description |
 
 
 #####Node Label: TechnologyTrend
@@ -45,8 +45,8 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
-|Description  
+|name |
+|description  
 
 
 #####Node Label: BusinessTrend
@@ -57,8 +57,8 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
-|Description  
+|name |
+|description  
 
 
 ##### Node Label: Feature
@@ -69,9 +69,9 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|ObjectClass|Archimate_Service
-|Name |
-|Description  
+|objectClass|Archimate_Service
+|name |
+|description  
 
 
 #### Node Label: FeatureSet
@@ -82,8 +82,8 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
-|Description  
+|name |
+|description  
 
 
 
@@ -96,7 +96,7 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name|as defined in Global Pass
+|name|as defined in Global Pass
 |email|as defined in Global Pass
 
 
@@ -111,7 +111,7 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
+|name |
 |Description  
 
 
@@ -125,8 +125,8 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
-|Description  
+|name |
+|description  
 
 
 #### Node Label: Account
@@ -137,7 +137,7 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
+|name |
 
 
 #### Node Label: solutionType
@@ -148,7 +148,7 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
+|name |
 
 
 #### Node Label: Category
@@ -159,7 +159,7 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
+|name |
 
 
 #### Node Label: offeringFamily
@@ -170,7 +170,7 @@ Ratio : 1:n
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
+|name |
 
 #### Node Label: technologyGroup
 Scope : defines the placement of the feature within the technical view (e.g application, infra)
@@ -180,8 +180,8 @@ Ratio : 1:1
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
-|Description  
+|name |
+|description  
 
 
 #### Node Label: FeatureCategory
@@ -192,8 +192,8 @@ Ratio : 1:1
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
-|Description  |
+|name |
+|description  |
 
 #### Node Label: SolutionType
 Scope : defines the type of Solution
@@ -203,7 +203,7 @@ Ratio : 1:1
 |Property|Description|
 |----|----|
 |id|system generated
-|Name |
+|name |
 
 ### Relationships
 |Source|Destination|Name|Properties|
@@ -223,4 +223,3 @@ Ratio : 1:1
 |Solution|Category|ASSIGNED
 |Account|SubIndustry|ASSIGNED
 |SubIndustry|Industry|VALUEOF
-
