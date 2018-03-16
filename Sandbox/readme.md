@@ -1,8 +1,10 @@
 # Sandbox instance
 
 
-* [Access to the Neo4j sandbox](SandboxInstance.md)
-* [Setting up new users](SandboxUsers.md)
+* [Setting up your local sandbox instance]()
+* Sample Datasets
+    * [Digital Explorer]()
+    * [SFDC]()
 * [Basic Neo Queries](basicQueries.md)
 * [What should we ask the Graph?](GraphAnalytics.md)
 * [Anchor points](anchorPoints.md)
