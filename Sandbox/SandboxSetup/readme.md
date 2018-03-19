@@ -22,7 +22,7 @@ How to install and configure your local Neo4j sandbox instance.
 
 ## Importing an existing database
 
-- Download the required dataset (../Sandbox/datasets.md)
+- [Download the required dataset](../datasets.md)
 - Ensure your database instance is not running
 - select Manage
 ![Step4](images/step4.PNG)
