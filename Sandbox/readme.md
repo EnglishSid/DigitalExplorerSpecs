@@ -1,7 +1,7 @@
 # Sandbox instance
 
 
-* [Setting up your local sandbox instance]()
+* [Setting up your local sandbox instance](Sandbox Set-up/readme.md)
 * [Sample Datasets](datasets.md)
 * [Basic Neo Queries](basicQueries.md)
 * [What should we ask the Graph?](GraphAnalytics.md)
