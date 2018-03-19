@@ -33,7 +33,7 @@ DE is not a data lake, DE is a living dataset.  The knowledge is used from withi
 
 ### Digital Explorer Neo4j Sandbox 
 
-* [Access to the Neo4j sandbox](Sandbox/SandboxInstance.md)
+* [Neo4j sandbox](Sandbox/readme.md)
 * [Basic Neo Queries](Sandbox/basicQueries.md)
 * [What should we ask the Graph?](Sandbox/GraphAnalytics.md)
 * [Anchor points](Sandbox/anchorPoints.md)
