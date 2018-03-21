@@ -11,6 +11,7 @@
 #### DE Model
 ![Base Offering Model](images/offeringModel.jpg)
 - From this dataset the initial page and entry points are defined.   Solutions must reference the correct sub-offering to be included within all following viewpoints
+- Action : Dave to ensure dataset is complete within Digital Explorer (Dev and Prod)
 
 ### DXC industry
 
