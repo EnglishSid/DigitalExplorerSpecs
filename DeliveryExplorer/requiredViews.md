@@ -1,19 +1,23 @@
+# Key framing datamodel
 
-# DXC Offerings and Products
+**the offering and industry reference data shapes the navigator**
+
+## DXC Offerings and Products
 
 - [Master Reference](https://my.dxc.com/our-company/global-functions/integrated-workforce-management/infrastructure-and-support/knowledge-management/km_taxonomy_classification.html)
 
-## Offering Family > Major Offering > Sub Offering
+### Offering Family > Major Offering > Sub Offering
 
-### DE Model
-![Base Offering Model]images/(offeringModel.jpg)
+#### DE Model
+![Base Offering Model](images/offeringModel.jpg)
+- From this dataset the initial page and entry points are defined.   Solutions must reference the correct sub-offering to be included within all following viewpoints
 
-## DXC industry
+### DXC industry
 
-## Industry > Sub Industry
+### Industry > Sub Industry
 
-### DE Model
-![Base Industry Model]images/(industryModel.jpg)
+#### DE Model
+![Base Industry Model](images/industryModel.jpg)
 
 # Sub Offering Viewpoints
 
