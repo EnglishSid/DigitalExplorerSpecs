@@ -25,11 +25,13 @@
 **GAP**
 - R1 hard code
 - R2 review potential to extend Feature node to support (?)
+- R2 DelExplorer team could develop custom UI to allow attachments to be uploaded against master sub-offerings
 
 ## Methodology
 **GAP**
 - R1 hard code
 - R2 review potential to extend Feature node to support (?)
+- R2 DelExplorer team could develop custom UI to allow attachments to be uploaded against master sub-offerings
 
 ## Floor Walks
 - Attachment type Floorwalk doctype text, video or media (new attachment type in meta)
