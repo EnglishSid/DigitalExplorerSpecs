@@ -35,7 +35,7 @@
 
 ## Floor Walks
 - Attachment type Floorwalk doctype text, video or media (new attachment type in meta)
-- either from a single solution or potential to create a generic solution called "methods @ <client>" to caputre the summaries
+- either from a single solution or potential to create a generic solution called "methods @ <client>" to capture the summarized viewpoints
 
 ## Case Studies
 - Group by Account
