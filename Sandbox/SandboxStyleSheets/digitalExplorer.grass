@@ -1,0 +1,171 @@
+{
+  "node": {
+    "diameter": "50px",
+    "color": "#A5ABB6",
+    "border-color": "#9AA1AC",
+    "border-width": "2px",
+    "text-color-internal": "#FFFFFF",
+    "font-size": "10px"
+  },
+  "relationship": {
+    "color": "#A5ABB6",
+    "shaft-width": "1px",
+    "font-size": "8px",
+    "padding": "3px",
+    "text-color-external": "#000000",
+    "text-color-internal": "#FFFFFF",
+    "caption": "<type>"
+  },
+  "node.Account": {
+    "color": "#568E8B",
+    "border-color": "#568E8B",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Constraint": {
+    "color": "#BCBDDC",
+    "border-color": "#BCBDDC",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.KPI": {
+    "color": "#FB95AF",
+    "border-color": "#E0849B",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Attachment": {
+    "caption": "{name}"
+  },
+  "node.BusinessTrend": {
+    "caption": "{name}"
+  },
+  "node.ClientDisruptor": {
+    "caption": "{name}"
+  },
+  "node.Feature": {
+    "color": "#FEE391",
+    "border-color": "#FEE391",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Industry": {
+    "color": "#0570B0",
+    "border-color": "#0570B0",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Goal": {
+    "color": "#807DBA",
+    "border-color": "#807DBA",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Stakeholder": {
+    "color": "#ADDD8E",
+    "border-color": "#ADDD8E",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Motivation": {
+    "color": "#6A51A3",
+    "border-color": "#6A51A3",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.TechnologyGroup": {
+    "color": "#FC8D59",
+    "border-color": "#FC8D59",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.BusinessArea": {
+    "color": "#74A9CF",
+    "border-color": "#74A9CF",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Role": {
+    "caption": "{name}"
+  },
+  "node.Workspace Note": {
+    "caption": "{name}"
+  },
+  "node.TechnologyTrend": {
+    "caption": "{name}"
+  },
+  "node.Region": {
+    "caption": "{name}"
+  },
+  "node.Person": {
+    "color": "#ADDD8E",
+    "border-color": "#ADDD8E",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Category": {
+    "color": "#78C679",
+    "border-color": "#78C679",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.InnovationAgenda": {
+    "caption": "{name}"
+  },
+  "node.Practice": {
+    "color": "#238443",
+    "border-color": "#238443",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Driver": {
+    "color": "#9E9AC8",
+    "border-color": "#9E9AC8",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.SubIndustry": {
+    "color": "#3690C0",
+    "border-color": "#3690C0",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.ClientStrategicInitiative": {
+    "caption": "{name}"
+  },
+  "node.AgendaGoal": {
+    "caption": "{name}"
+  },
+  "node.AgendaTemplate": {
+    "caption": "{name}"
+  },
+  "node.ConfigurationPlan": {
+    "color": "#FE9929",
+    "border-color": "#FE9929",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.Solution": {
+    "color": "#EC7014",
+    "border-color": "#EC7014",
+    "text-color-internal": "#FFFFFF",
+    "caption": "{name}"
+  },
+  "node.ClientValueChain": {
+    "caption": "{name}"
+  },
+  "node.Tag": {
+    "caption": "{name}"
+  },
+  "node.Workspace": {
+    "caption": "{name}"
+  },
+  "node.WN_Word": {
+    "defaultCaption": "<id>",
+    "diameter": "10px"
+  },
+  "node.WN_Synset": {
+    "defaultCaption": "<id>",
+    "diameter": "10px"
+  }
+}

@@ -3,8 +3,6 @@
 * [Setting up your local sandbox instance](SandboxSetup/readme.md)
 * [Sample Datasets](datasets.md)
 * [Basic Neo Queries](basicQueries.md)
-* [What should we ask the Graph?](GraphAnalytics.md)
-* [Anchor points](anchorPoints.md)
 
 ### Sandbox projects
 * [DE and Twitter](Projects/DETwitter.md)
