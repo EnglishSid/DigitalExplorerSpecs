@@ -66,7 +66,8 @@ return s,f
 ### Methods
 #### Match & Load - just to be sure
 ~~~
-MERGE (f:Feature {name:Solution.METHODS})
+LOAD csv with headers from "file:///SolutionExample.csv" as Solution
+MATCH (f:Feature {name:Solution.METHODS})
 WITH f
 MATCH (ft:FeatureCategory)  where ft.name="Method"
 WITH f,ft
@@ -124,7 +125,7 @@ Solutions must have atleast one
 CREATE (cp:ConfigurationPlan {name:"Base Plan"})
 WITH cp
 LOAD csv with headers from "file:///SolutionExample.csv" as Solution
-MATCH (s:Solution {name:Solution.SolutionName})--[f:Feature]
+MATCH (s:Solution {name:Solution.SolutionName})--(f:Feature)
 MERGE (cp)<-[r:OFFLAVOUR]-(s)
 MERGE (cp)-[r2:REALIZEDBY]->(f)
 RETURN cp,s,f
@@ -170,7 +171,7 @@ RETURN s,c
 ### Offering Family
 ~~~~
 LOAD csv with headers from "file:///SolutionExample.csv" as Solution
-MATCH (s:Solution {name:Solution.SolutionName}),(p:Pratice {name:Solution.OfferingFamilies})
+MATCH (s:Solution {name:Solution.SolutionName}),(p:Practice {name:Solution.OfferingFamilies})
 MERGE (s)<-[r:INFLUENCE]-(p)
 RETURN s,p
 ~~~~

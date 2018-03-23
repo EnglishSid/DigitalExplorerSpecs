@@ -8,7 +8,7 @@
 - set creation date
 
 
-## Limitaitons
+## Limitations
 - will not support attachments
 - limited contact and role model
 
