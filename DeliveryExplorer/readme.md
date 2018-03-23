@@ -31,18 +31,19 @@
 **Delivery Explorer view**
 - R1 hard code
 - R2 New extensions to the DE Graph Model, incs associated API's
-- R2 DelExplorer team could develop custom UI to allow attachments to be uploaded against master sub-offerings
+- R2 DelExplorer team to develop dedicated delivery viewpoint capture UI
 
 ## Methodology
 **Delivery Explorer view**
 - R1 hard code
 - R2 New extensions to the DE Graph Model, incs associated API's
-- R2 DelExplorer team could develop custom UI to allow attachments to be uploaded against master sub-offerings
+- R2 DelExplorer team to develop dedicated delivery viewpoint capture UI
 
 ## Floor Walks
 **Delivery Explorer view**
 - R1 hard code
-- R2 New extensions to the DE Graph Model, incs associated API's
+R2 New extensions to the DE Graph Model, incs associated API's
+- R2 DelExplorer team to develop dedicated delivery viewpoint capture UI
 
 ## Case Studies
 **Solution View**
