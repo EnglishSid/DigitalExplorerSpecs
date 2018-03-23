@@ -114,6 +114,22 @@ MERGE (s)-[:ofType]->(st)
 return s,st
 ~~~
 
+### link to WWS page
+
+LOAD csv with headers from "file:///offeringsUnique.csv" as Solution
+CREATE (a:Attachment {
+attachmentType:"DOCUMENT",
+docType:"Sales Guide",
+name:"Sales Guide",
+uri:Solution.Links
+})
+with a, Solution
+MATCH (s:Solution {name:Solution.SolutionName})
+MERGE (s)-[:DESCRIBEDBY]->(a)
+return s,a
+
+
+
 
 # cleanup 
 ~~~
