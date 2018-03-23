@@ -20,35 +20,50 @@
 #### DE Model
 ![Base Industry Model](images/industryModel.jpg)
 
+
+### Delivery Explorer model extensions
+
+![Base Industry Model](images/DeliveryExplorerModel.jpg)
+
 # Sub Offering Viewpoints
 
 ## Overview
-**GAP**
+**Delivery Explorer view**
 - R1 hard code
-- R2 review potential to extend Feature node to support (?)
+- R2 New extensions to the DE Graph Model, incs associated API's
 - R2 DelExplorer team could develop custom UI to allow attachments to be uploaded against master sub-offerings
 
 ## Methodology
-**GAP**
+**Delivery Explorer view**
 - R1 hard code
-- R2 review potential to extend Feature node to support (?)
+- R2 New extensions to the DE Graph Model, incs associated API's
 - R2 DelExplorer team could develop custom UI to allow attachments to be uploaded against master sub-offerings
 
 ## Floor Walks
-- Attachment type Floorwalk doctype text, video or media (new attachment type in meta)
-- either from a single solution or potential to create a generic solution called "methods @ <client>" to capture the summarized viewpoints
+**Delivery Explorer view**
+- R1 hard code
+- R2 New extensions to the DE Graph Model, incs associated API's
 
 ## Case Studies
+**Solution View**
 - Group by Account
 - List of solutions which include the selected sub offering
 - sort by name, rating, industry
 
 ## Client Testimonials
+**Solution View**
 - Attachment type Testimonial doctype text, video or media (new attachment type in meta)
 
+
+
 ## Connect with Experts
+![Base Industry Model](images/DeliveryExperts.jpg)
+
 **new query required**
-Deep query into the Graph to return people with more than _x_ solutions using the selected sub-offering
+
+
+1. pull in from assigned people through "Delivery Viewpoint" Node
+2. Deep query into the Graph to return people with more than _x_ solutions using the selected sub-offering
 
 
 --- 
