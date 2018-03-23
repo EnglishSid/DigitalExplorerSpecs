@@ -19,7 +19,7 @@
 | Technical Architecture     | :european_post_office: `:european_post_office:`
 | Architecture 2             | :building_construction: `:building_construction:`
 | Sample Datasets            | :information_desk_person: `:information_desk_person:`
-| Key Actions                  | :clapper: `:clapper:`
+| Key Actions                | :clapper: `:clapper:`
 
 #### References
 * https://gitmoji.carloscuesta.me/
