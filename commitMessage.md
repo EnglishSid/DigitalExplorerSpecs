@@ -20,6 +20,7 @@
 | Architecture 2             | :building_construction: `:building_construction:`
 | Sample Datasets            | :information_desk_person: `:information_desk_person:`
 | Key Actions                | :clapper: `:clapper:`
+| Moved things around       | :truck: `:truck:`
 
 #### References
 * https://gitmoji.carloscuesta.me/
