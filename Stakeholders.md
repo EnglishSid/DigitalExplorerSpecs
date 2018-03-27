@@ -5,6 +5,7 @@
 | Dan Hushon | Key sponsor | :green_book: | funding and evangelising support with other L2 leaders
 | Samson David | VP Deliver | :green_book: | supporting extension to support delivery assets and solutions
 | Chris Swan | Delivery CTO | :green_book: | supporting extension to support delivery assets and solutions
+| Neil Kelley | Sales SVP | :green_book: | supporting through the development of ASD
 | Taber West | Solutioning CTO | :green_book: | promoting usage of DE within new solutioning methods, looking at integration of ASD within DE approaches
 | Micheal Fitzgerald | Digital Transformation Lead | :green_book: | mandating usage of Digital Explorer within DT program
 | Sukhi Gill | UKIMEA CTO | :green_book: | strong engagement with his CT's to manage trend and agenda content
