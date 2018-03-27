@@ -25,3 +25,4 @@
 #### References
 * https://gitmoji.carloscuesta.me/
 * https://www.webpagefx.com/tools/emoji-cheat-sheet/
+* https://gist.github.com/rxaviers/7360908
