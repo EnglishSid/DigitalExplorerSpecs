@@ -12,7 +12,7 @@
 | Juan Juan | SE CTO | :closed_book: | no content, no agendas
 | Daniel Angelucci | ASIA CTO | :orange_book: | content starting to be submitted, no agendas
 | Daniel Biondi |ANZ CTO | :closed_book: |  no content, no agendas
-| Stephen Singh | AMS CTO | :green_book | strong engagement with his CT's to manage trend and agenda content
+| Stephen Singh | AMS CTO | :green_book: | strong engagement with his CT's to manage trend and agenda content
 | Sam Johnston | DXC Labs Director | :green_book: | initial content from labs teams loaded mapping trends to labs concepts
 | Patty Brown | Marketing | :green_book: | alignment to harvest DXC success stories into Digital Explorer
 | Lutz Krueger | CIO KM | :green_book: | alignment with central DXC taxonomy program and potential to leverage DE approaches
