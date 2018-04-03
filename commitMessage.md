@@ -21,6 +21,8 @@
 | Sample Datasets            | :information_desk_person: `:information_desk_person:`
 | Key Actions                | :clapper: `:clapper:`
 | Moved things around        | :truck: `:truck:`
+| taking shape               | :seedling: `:seedling:`
+
 
 #### References
 * https://gitmoji.carloscuesta.me/
