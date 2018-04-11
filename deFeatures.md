@@ -27,4 +27,4 @@
 | Solutions | media and attachments | option to add any supporting media to the solution |   |
 | Solutions | Tags | free form tags to allow users to group or identify solutions (e.g. &quot;Tech Excellence Winners 2018&quot;) |   |
 | Solutions | _Role : Solution Reviewer_ | Internal Role - data quality reports and ability to edit any solution |   |
-| **Overall Taxonomy** | Taxonomy is aligned to the global DXC Taxonomy and DE team are part of the taxonomy governance group | |
+| **Overall Taxonomy** | <td colspan=3>Taxonomy is aligned to the global DXC Taxonomy and DE team are part of the taxonomy governance group|
