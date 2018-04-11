@@ -3,7 +3,7 @@
 |**Trends** | Industry Trends | Key industry use cases mapped out against a maturity model, grouped by a set of common areas across all industries - ability to build cross relationships between industries | [Link](https://digitalexplorer.dxc.com/de/industry) |
 | Trends | Technology Trends | key technology trends mapped out against a maturity model - grouped by technology areas | [Link](https://digitalexplorer.dxc.com/de/technology) |
 | Trends | open collaboration | add/edit trends is open to all DXC employees | [Link](https://digitalexplorer.dxc.com/de/collaboration/main) |
-| Trends | Digital Stories | quick links and highlights from within Digital Explorer and external sources (key trends, showcase solutions, relevant papers) | [Link]](https://digitalexplorer.dxc.com/de/stories) |
+| Trends | Digital Stories | quick links and highlights from within Digital Explorer and external sources (key trends, showcase solutions, relevant papers) | [Link](https://digitalexplorer.dxc.com/de/stories) |
 | Trends | Trend on a page view | consolidated view of a single trend - industry use cases, demand curve, solutions, contributions (trends and solutions) | [Link](https://digitalexplorer.dxc.com/de/stats/business/387921) |
 | Trends | _Role : Trend Reviewer_ | Internal role - review and approve proposed changes to the trends |   |
 | **Agendas** |   | [Link](https://digitalexplorer.dxc.com/bvr/) |
