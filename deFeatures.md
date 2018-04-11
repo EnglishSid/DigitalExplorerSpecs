@@ -16,7 +16,7 @@
 | Agendas | Account focus areas | Final output of the innovation agenda - selection of focus disruptors and the definition of the account&#39;s strategic initiatives (planned connect the related client goals as well) |   |
 | Agendas | DXC Solutions | Dynamic list of available DXC solution based on the disruptors within the innovation agenda |   |
 | Agendas | _Role : Agenda Manager_ | Internal role - assign people to accounts, create internal program groups and review all agendas within the system |   |
-| **Solutions** |   | [Link](https://digitalexplorer.dxc.com/se/) |
+| **Solutions** |   | | [Link](https://digitalexplorer.dxc.com/se/) |
 | Solutions | Solution Type | Ability to create various types of solutions (demos, prototypes, pilot, labs, production) |   |
 | Solutions | Business Motivations | highest level within the solution model, smart look-up into &quot;trends&quot; (business and technology) and option to create new motivations |   |
 | Solutions | DXC Offering | ability to specify which DXC offerings (sub-offering level) are part of the solution |   |
