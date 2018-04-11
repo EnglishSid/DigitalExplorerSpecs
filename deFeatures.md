@@ -7,14 +7,16 @@
 | Trends | Trend on a page view | consolidated view of a single trend - industry use cases, demand curve, solutions, contributions (trends and solutions) | [Link](https://digitalexplorer.dxc.com/de/stats/business/387921) |
 | Trends | _Role : Trend Reviewer_ | Internal role - review and approve proposed changes to the trends |   |
 | **Agendas** |   | [Link](https://digitalexplorer.dxc.com/bvr/) |
-| Agendas | Internal Programs and groups | Ability to create internal groups to assign accounts - track progress of the creation of the innovation agendas - filter by industry or region |   |
-| Agendas | Industry templates | Allow users to create and re-use any available templates for their client innovation agendas |   |
-| Agendas | Client Strategic goals | Capture client strategic goals as they relate to the innovation agenda (incs KPI&#39;s) |   |
-| Agendas | Client disruptors, focus areas, risk and innovation levels | Ability to capture key information about each entry within the Sunray diagram and how they impact the client |   |
+| Agendas | Internal Programs and groups | Ability to create internal groups to assign accounts - track progress of the creation of the innovation agendas - filter by industry or region |[ScreenShot](images/samples/AgendaPrograms.png)   |
+| Agendas | Industry templates | Allow users to create and re-use any available templates for their client innovation agendas | [ScreenShot](images/samples/SelectAgendaTemplate.png)   |
+| Agendas | Client Strategic goals | Capture client strategic goals as they relate to the innovation agenda (incs KPI&#39;s) |[ScreenShot](images/samples/CreateAgenda.png)   |
+| Agendas | Client disruptors, focus areas, risk and innovation levels | Ability to capture key information about each entry within the Sunray diagram and how they impact the client |[ScreenShot](images/samples/AgendaLevels.png)    |
 | Agendas | Recommendation engine | Smart look-up for similar disruptors from all other innovation agendas - filter by industry or region |   |
-| Agendas | Innovation Sunray diagram | Interactive creation and presentation of the innovation sunray diagram (sometime referred to as the T-Map) |   |
-| Agendas | Account focus areas | Final output of the innovation agenda - selection of focus disruptors and the definition of the account&#39;s strategic initiatives (planned connect the related client goals as well) |   |
-| Agendas | DXC Solutions | Dynamic list of available DXC solution based on the disruptors within the innovation agenda |   |
+| Agendas | Innovation Sunray diagram | Interactive creation and presentation of the innovation sunray diagram (sometime referred to as the T-Map) | [ScreenShot](images/samples/AgendaSunray.png)  |
+| Agendas | Account focus areas | Final output of the innovation agenda - selection of focus disruptors and the definition of the account&#39;s strategic initiatives (planned connect the related client goals as well) | [ScreenShot](images/samples/AgendaClientInitatives.png)  |
+| Agendas | DXC Solutions | Dynamic list of available DXC solution based on the disruptors within the innovation agenda | [ScreenShot](images/samples/AgendaSolutions.png)  |
+| Agendas | Export to PDF | Export innovation agenda to PDF file | [Example](images/samples/agenda.pdf)  |
+| Agendas | Agenda Insights | heatmap reports across all Agendas (group by region or industry) | [ScreenShot](images/samples/AgendaInsights.png)  |
 | Agendas | _Role : Agenda Manager_ | Internal role - assign people to accounts, create internal program groups and review all agendas within the system |   |
 | **Solutions** |   | | [Link](https://digitalexplorer.dxc.com/se/) |
 | Solutions | Solution Type | Ability to create various types of solutions (demos, prototypes, pilot, labs, production) |   |
