@@ -1,12 +1,12 @@
 | **Module** | **Feature** | **Description** | **Link** |
 | --- | --- | --- |---|
-|**Trends** | Industry Trends | Key industry use cases mapped out against a maturity model, grouped by a set of common areas across all industries - ability to build cross relationships between industries | [https://digitalexplorer.dxc.com/de/industry](https://digitalexplorer.dxc.com/de/industry) |
-| Trends | Technology Trends | key technology trends mapped out against a maturity model - grouped by technology areas | [https://digitalexplorer.dxc.com/de/technology](https://digitalexplorer.dxc.com/de/technology) |
-| Trends | open collaboration | add/edit trends is open to all DXC employees | [https://digitalexplorer.dxc.com/de/collaboration/main](https://digitalexplorer.dxc.com/de/collaboration/main) |
-| Trends | Digital Stories | quick links and highlights from within Digital Explorer and external sources (key trends, showcase solutions, relevant papers) | [https://digitalexplorer.dxc.com/de/stories](https://digitalexplorer.dxc.com/de/stories) |
-| Trends | Trend on a page view | consolidated view of a single trend - industry use cases, demand curve, solutions, contributions (trends and solutions) | [https://digitalexplorer.dxc.com/de/stats/business/387921](https://digitalexplorer.dxc.com/de/stats/business/387921) |
+|**Trends** | Industry Trends | Key industry use cases mapped out against a maturity model, grouped by a set of common areas across all industries - ability to build cross relationships between industries | [Link](https://digitalexplorer.dxc.com/de/industry) |
+| Trends | Technology Trends | key technology trends mapped out against a maturity model - grouped by technology areas | [Link](https://digitalexplorer.dxc.com/de/technology) |
+| Trends | open collaboration | add/edit trends is open to all DXC employees | [Link](https://digitalexplorer.dxc.com/de/collaboration/main) |
+| Trends | Digital Stories | quick links and highlights from within Digital Explorer and external sources (key trends, showcase solutions, relevant papers) | [Link]](https://digitalexplorer.dxc.com/de/stories) |
+| Trends | Trend on a page view | consolidated view of a single trend - industry use cases, demand curve, solutions, contributions (trends and solutions) | [Link](https://digitalexplorer.dxc.com/de/stats/business/387921) |
 | Trends | _Role : Trend Reviewer_ | Internal role - review and approve proposed changes to the trends |   |
-| **Agendas** |   | [https://digitalexplorer.dxc.com/bvr/](https://digitalexplorer.dxc.com/bvr/) |
+| **Agendas** |   | [Link](https://digitalexplorer.dxc.com/bvr/) |
 | Agendas | Internal Programs and groups | Ability to create internal groups to assign accounts - track progress of the creation of the innovation agendas - filter by industry or region |   |
 | Agendas | Industry templates | Allow users to create and re-use any available templates for their client innovation agendas |   |
 | Agendas | Client Strategic goals | Capture client strategic goals as they relate to the innovation agenda (incs KPI&#39;s) |   |
@@ -16,7 +16,7 @@
 | Agendas | Account focus areas | Final output of the innovation agenda - selection of focus disruptors and the definition of the account&#39;s strategic initiatives (planned connect the related client goals as well) |   |
 | Agendas | DXC Solutions | Dynamic list of available DXC solution based on the disruptors within the innovation agenda |   |
 | Agendas | _Role : Agenda Manager_ | Internal role - assign people to accounts, create internal program groups and review all agendas within the system |   |
-| **Solutions** |   | [https://digitalexplorer.dxc.com/se/](https://digitalexplorer.dxc.com/se/) |
+| **Solutions** |   | [Link](https://digitalexplorer.dxc.com/se/) |
 | Solutions | Solution Type | Ability to create various types of solutions (demos, prototypes, pilot, labs, production) |   |
 | Solutions | Business Motivations | highest level within the solution model, smart look-up into &quot;trends&quot; (business and technology) and option to create new motivations |   |
 | Solutions | DXC Offering | ability to specify which DXC offerings (sub-offering level) are part of the solution |   |
