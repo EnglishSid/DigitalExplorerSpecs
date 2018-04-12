@@ -1,3 +1,5 @@
+# Digital Explorer Key Features
+
 | **Module** | **Feature** | **Description** | **Link** |
 | --- | --- | --- |---|
 |**Trends** | Industry Trends | Key industry use cases mapped out against a maturity model, grouped by a set of common areas across all industries - ability to build cross relationships between industries | [Link](https://digitalexplorer.dxc.com/de/industry) |
