@@ -7,14 +7,14 @@ How to install and configure your local Neo4j sandbox instance.
 
 ## Setting up Neo4j Desktop
 
-- Once installed create a new Project
+- Once installed create a new Project<br>
 ![Step1](images/step1.PNG)
 
-- Create a New Graph Database
+- Create a New Graph Database<br>
 ![Step2](images/step2.PNG)
      - Select `Create a Local Graph`
      - Enter the name and local password
-     - Select the required version (if importing an existing dataset check the version required)
+     - Select the required version (if importing an existing dataset check the version required)<br>
      ![Step3](images/step3.PNG)
 
 - If importing an existing dataset no need to start your instance
@@ -24,10 +24,10 @@ How to install and configure your local Neo4j sandbox instance.
 
 - [Download the required dataset](../datasets.md)
 - Ensure your database instance is not running
-- select Manage
-![Step4](images/step4.PNG)
-- Open Folder (don't worry about selecting a sub-folder here - you want the root of your installation)
-![Step5](images/step5.PNG)
+- select Manage<br>
+![Step4](images/step4.PNG)<br>
+- Open Folder (don't worry about selecting a sub-folder here - you want the root of your installation)<br>
+![Step5](images/step5.PNG)<br>
 - Open the data directory
 - Open the database directory
 - rename or delete the existing graph.db directory
