@@ -102,3 +102,6 @@ Outcome of the innovation agenda, selected focus areas are combined to create a 
 |ClientDisruptor|ClientValueChain|DISRUPTORS
 |ClientDisruptor|BusinessTrend|SPECIALIZES
 |ClientDisruptor|TechnologyTrend|SPECIALIZES
+|ClientStrategicInitative|ClientDistruptor|ASSIGNED
+|ClientStrategicInitative|KPI|ADDRESSES
+|ClientStrategicInitative|AgendaGoal|ADDRESSES
