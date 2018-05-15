@@ -8,6 +8,7 @@
 | Documentation              | :books: `:books:`                             |
 | Fixing typos               | :pencil2: `:pencil2:`                           |
 | Weekly numbers             | :chart_with_upwards_trend: `:chart_with_upwards_trend:`|
+| Weekly numbers             | :chart_with_downwards_trend: `:chart_with_downwards_trend:`|
 | Updating team members      | :busts_in_silhouette: `:busts_in_silhouette:`|
 | Style updates              | :lipstick: `:lipstick:`
 | general cleanup            | :wastebasket: `:wastebasket:`
