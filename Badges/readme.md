@@ -13,21 +13,63 @@ Allow "tags" to be used within Solutions as a means to create "events/Challenges
 New platform event upon saving content
 
 
-|Module|Event|Check|Award
-|----|----|----|----|
-|Solutions|Save solution|Person solution count|Solution badges (1,5,10)
-|Solutions|Save Solution|Feature type check|Keep it in the family <br> We are all friends here <br> It’s not what I do, it’s how I do it
-|Solutions|Save Solution|Trend check|Innovator
-|Solutions|Save Solution|Industry check|Industrialist
-|Solutions|Save Solution|Check if challenge tag|Event badges (specials)
-|Trends|Trend approved|trend count|Trend Badge (1,10)
-|Trends|Trend approved|industry check|Industrialist
-|Agendas|Save Agenda|Person 2 agenda count|Agenda badge
-|Agendas|Save Template|as template is saved|Helping hands|
-|Agendas|Create strategic initative|as program is saved|Taking the next step
 |Workspaces|Create Workspace|as workspace is created|workspace badge
 |Workspaces|Add person to a workspace|as person is added|workspace member badge
 
+### Awards
+
+|Module|Event|Check|NodeName|Description
+|----|----|----|----|----|
+|Solutions|Save Solution|1st Solution|OnboardSolutions|Submitted first solution
+|Solutions|Save Solution|5th Solution|Journeyman|Journeyman (Submitted 5th solution)
+|Solutions|Save Solution|10th Solution|Master|Master (Submitted 10th solution)
+|Solutions|Save Solution|Feature include an Offering|Family|Keep it in the family
+|Solutions|Save Solution|Feature include an Offering|Family`<name>`|Keep it in the family <name of family>
+|Solutions|Save Solution|Feature include a partner|Friends|We are all friends here
+|Solutions|Save Solution|Feature include a method|Methods|It’s not what I do, it’s how I do it
+|Solutions|Save Solution|Trend included in solution|Innovator|Innovator
+|Solutions|Save Solution|Assigned industry to solution|SolutionIndustrialist|Submit your first solution for a named industry
+|Solutions|Save Solution|Assigned industry to solution|SolutionIndustrialist`<name`>|Submit your first solution for a named industry
+|Solutions|Save Solution|event tag included|EventName|EventDescription
+|Trends|Trend Approved|1st Trend|OnboardTrends|Submitted first trend
+|Trends|Trend Approved|10th Trend|ThoughtLeader|Submitted 10th trend
+|Trends|Trend Approved|Trend 2 Industry|TrendIndustrialist|Submit your first trend for a named industry
+|Trends|Trend Approved|Trend 2 Industry|TrendIndustrialist`<name>`|Submit your first trend for a named industry
+|Agendas|Save Agenda|people assigned to account at time of save|OnboardAgendas|Member of an account team with an innovation agenda
+|Agendas|Save Template|created template|Helping hands|Create your first agenda template
+|Agenda|Create Initiative|people assigned to an account at the time a inititive is created|Taking the next step|Member of an account team who have created a strategic initiative
+|Workspaces|Create Workspace|created first workspace|OnboardWorkspace|Created first workspace
+|Workspaces|Member of a workspace|added as a member of an existing workspace|Membership|added as a member of an existing workspace
+
 
 ### Q: How will existing content be reviewed?
+
 The majority of content was bulk loaded via PPT2CSV, thus only new content with a submission date after Nov 2017 will be included within the initial data scan to award achievements.
+
+---
+## Approach
+
+0. Prep
+    - preload Badge Nodes
+    - create the support image files
+
+1. Solution Save Event
+
+2. Trend Approval Event
+
+3. Agenda
+    - Save Event 
+    - Template Save Event
+    - Create Initative Event
+
+5. Workspace 
+     - Create event
+     - Membership event
+
+7. New Tag management Module
+     - New Tag management endpoint (add, edit delete)
+     - New tag GET endpoint (name, IsEvent, BadgeURI)
+     - New GET tag count endpoint (tagid, relastionship count)
+     - New tag management UI
+     - Update Solution save to support events
+
