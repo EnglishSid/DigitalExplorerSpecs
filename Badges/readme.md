@@ -18,13 +18,13 @@ New platform event upon saving content
 
 ### Awards
 
-|Module|Event|Check|NodeName|Shortname|Description
-|----|----|----|----|----|
+|Module|Event|Check|NodeName|Shortname|Description|
+|----|----|----|----|----|----|
 |Solutions|Save Solution|1st Solution|OnboardSolutions|Onboard Solutions|Submitted first solution
 |Solutions|Save Solution|5th Solution|Journeyman|Journeyman|Submitted 5th solution
 |Solutions|Save Solution|10th Solution|Master|Master|Submitted 10th solution
 |Solutions|Save Solution|Feature include an Offering|Family|Keep it in the family|TDB
-|Solutions|Save Solution|Feature include an Offering|Family`<name>`|Keep it in the family <name of family>|TDB
+|Solutions|Save Solution|Feature include an Offering|Family`<name>`|Keep it in the family `<name of family>`|TDB
 |Solutions|Save Solution|Feature include a partner|Friends|We are all friends here|TDB
 |Solutions|Save Solution|Feature include a method|Methods|Methods|It’s not what I do, it’s how I do it
 |Solutions|Save Solution|Trend included in solution|Innovator|Innovator|TBD
