@@ -6,15 +6,16 @@ Gamifacation within the Digital Explorer platform
 Track and recoginize contribution within the platform via achievements and badges.
 Allow "tags" to be used within Solutions as a means to create "events/Challenges"
 
+## Model
+
+![datamodel](AchievementModel.png)
+
 
 ## Content achievements
 
+
 ### Approach
 New platform event upon saving content
-
-
-|Workspaces|Create Workspace|as workspace is created|workspace badge
-|Workspaces|Add person to a workspace|as person is added|workspace member badge
 
 ### Awards
 
@@ -29,7 +30,7 @@ New platform event upon saving content
 |Solutions|Save Solution|Feature include a method|Methods|Methods|It’s not what I do, it’s how I do it
 |Solutions|Save Solution|Trend included in solution|Innovator|Innovator|TBD
 |Solutions|Save Solution|Assigned industry to solution|SolutionIndustrialist|Solution Industrialist|Submit your first solution for a named industry
-|Solutions|Save Solution|Assigned industry to solution|SolutionIndustrialist`<name`>|Solution Industrialist `<name`>|Submit your first solution for a named industry
+|Solutions|Save Solution|Assigned industry to solution|SolutionIndustrialist`<name>`|Solution Industrialist `<name>`|Submit your first solution for a named industry
 |Solutions|Save Solution|event tag included|EventName|EventName|EventDescription
 |Trends|Trend Approved|1st Trend|OnboardTrends|Onboard Trends|Submitted first trend
 |Trends|Trend Approved|10th Trend|ThoughtLeader|ThoughtLeader|Submitted 10th trend
