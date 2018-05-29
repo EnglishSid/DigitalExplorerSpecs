@@ -114,8 +114,3 @@ WITH a,p
 WHERE a.family=p.name
 MERGE (a)<-[r:INCLUDES]-(p)
 RETURN a,p
-
-
----
-MATCH (a:Achievement),(i:Industry),(p:Practice)
-return a,i,p
