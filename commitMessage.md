@@ -23,6 +23,8 @@
 | Key Actions                | :clapper: `:clapper:`
 | Moved things around        | :truck: `:truck:`
 | taking shape               | :seedling: `:seedling:`
+| crown                      | :crown: `:crown:`
+| tips                       | :bulb: `:bulb:`
 
 
 #### References
