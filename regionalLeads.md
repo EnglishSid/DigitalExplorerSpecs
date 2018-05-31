@@ -1,8 +1,9 @@
-|Domain|AMEA|AMS|ANZ|NC Europe|S Europe|UKI|
+|Domain|AMEA|AMS|ANZ|NC Europe|S Europe|UKIIMEA|
 |---|---|---|---|---|---|---|
-|Regional CTO|Daniel Angelucci| |Daniel Biondi|Melih Yener|Juan Juan|Sukhi Gill|
+|Regional CTO|Daniel Angelucci|Stephen Singh |Daniel Biondi|Melih Yener|Juan Juan|Sukhi Gill|
 Agenda Managers| | Michael Donovan | |Christoph Koenen |Iñaki Galera |Ron Brown
 DE Platform leads|Akshay Saigal | Michael Donovan |Mark Nebreda |Christoph Koenen |Iñaki Galera |Ron Brown
+|**Industries** |
 Aerospace & Defence| |Chris Lennon| | Jürgen Dettling || Ged Cunliffe; Phil Lathaen; Phil Mullis|
 Airlines|Akshay Saigal|	John Tsucalas ;Jeff Keller| | Jürgen Dettling | |
 Automotive|John Wei| | |Jürgen Dettling | |Phil Mullis

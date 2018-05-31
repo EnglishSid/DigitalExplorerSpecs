@@ -18,13 +18,7 @@ DE is not a data lake, DE is a living dataset.  The knowledge is used from withi
 * [Release Notes](ReleaseNotes)
 * [Weekly Numbers](WeeklyNumbers.md)
 
-### A day in the life
-
-* [TrendSpotter](aDayintheLife/trendSpotter.md)
-* [Innovation Lead](aDayintheLife/innovationLead.md)
-* [Knowledge Hunter](aDayintheLife/KnowledgeHunter.md)
-
-### Meta Models
+### books: Meta Models
 * [Complete Model](MetaModels/completeModel.md)
 * [Business Trends MetaModel](MetaModels/BusinessTrendMetaModel.md)
 * [Technology Trends Metamodel](MetaModels/TechnologyTrendMetaModel.md)
@@ -32,18 +26,7 @@ DE is not a data lake, DE is a living dataset.  The knowledge is used from withi
 * [Solutions MetaModel](MetaModels/SolutionMetaModel.md)
 * [Workspace metamodel](MetaModels/WorkspaceMetaModel.md)
 
-### Digital Explorer Neo4j Sandbox 
-
-* [Neo4j sandbox](Sandbox/readme.md)
-* [Basic Neo Queries](Sandbox/basicQueries.md)
-* [What should we ask the Graph?](Sandbox/GraphAnalytics.md)
-* [Anchor points](Sandbox/anchorPoints.md)
-
-#### Sandbox projects
-* [DE and Twitter](Sandbox/Projects/DETwitter.md)
-* [TSS Import](https://github.dxc.com/ArchitectureOffice/DigitalExplorer_TSS_Integration)
-
-### Contacts
+### :busts_in_silhouette: Contacts
 
 * Product Owner/Architect : David Stevens (davidstevens@dxc.com)
 * [Regional Leads](regionalLeads.md)
