@@ -18,7 +18,7 @@ DE is not a data lake, DE is a living dataset.  The knowledge is used from withi
 * [Release Notes](ReleaseNotes)
 * [Weekly Numbers](WeeklyNumbers.md)
 
-### books: Meta Models
+### :books: Meta Models
 * [Complete Model](MetaModels/completeModel.md)
 * [Business Trends MetaModel](MetaModels/BusinessTrendMetaModel.md)
 * [Technology Trends Metamodel](MetaModels/TechnologyTrendMetaModel.md)
