@@ -25,7 +25,7 @@
 | taking shape               | :seedling: `:seedling:`
 | crown                      | :crown: `:crown:`
 | tips                       | :bulb: `:bulb:`
-
+| restricted                 | :lock: `:lock:`
 
 #### References
 * https://gitmoji.carloscuesta.me/
