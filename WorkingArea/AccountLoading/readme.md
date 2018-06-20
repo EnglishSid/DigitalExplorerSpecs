@@ -16,6 +16,15 @@ MERGE (a)-[r:ACCOUNT_TO_SUBINDUSTRY]->(si)
 RETURN a,si
 ~~~
 
+## Account 2 Region
+~~~
+//Load the file
+LOAD csv with headers from "file:///UKaccounts.csv" as loadFile
+MATCH (a:Account{name:loadFile.AccountName}),(r:Region{name:'UKIIMEA'})
+MERGE (a)-[:ACCOUNT_IN_REGION]->(r)
+RETURN a,r
+~~~
+
 
 ## CT mapping
 ~~~
