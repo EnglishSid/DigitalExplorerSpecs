@@ -34,7 +34,7 @@ RETURN p,a
 ~~~
 //Load the file
 LOAD csv with headers from "file:///UKaccounts.csv" as loadFile
-MATCH (a:Account{name:loadFile.AccountName}),(ip:DXCInternalProgram{name:'Digital Transformation Wave 2'})
+MATCH (a:Account{name:loadFile.AccountName}),(ip:DXCInternalProgram{name:'UKIIMEA - DIFP - First 60'})
 MERGE (a)-[r:MEMBER_OF]->(ip)
 return a,ip
 ~~~
