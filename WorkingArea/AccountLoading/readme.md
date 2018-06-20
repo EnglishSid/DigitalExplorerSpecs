@@ -31,6 +31,7 @@ RETURN p,a
 ~~~
 
 ## Account 2 Internal Program (optional)
+**Check the name of the program group**
 ~~~
 //Load the file
 LOAD csv with headers from "file:///UKaccounts.csv" as loadFile
@@ -38,5 +39,3 @@ MATCH (a:Account{name:loadFile.AccountName}),(ip:DXCInternalProgram{name:'UKIIME
 MERGE (a)-[r:MEMBER_OF]->(ip)
 return a,ip
 ~~~
-
-DXCInternalProgram
