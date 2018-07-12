@@ -1,4 +1,4 @@
-## DigitalExplorer 
+## Digital Explorer 
 
 Digital Explorer is the enterprise knowledge graph for DXC
 1.	Informing us about the needs of our existing and future clients through **Trends & Agendas**
