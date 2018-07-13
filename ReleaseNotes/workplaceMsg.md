@@ -1,10 +1,17 @@
 # New release just deployed
 
-## Agendas module:
-- ** Option to include `client goals` and `KPIs` within strategic initiatives **
-- Various fixes and UX improvements
+## Platform
+- **Achievements**
+    - Trends &  Solutions
 
-### Overview video here : https://video.dxc.com/media/t/1_x8edh23b 
+## Solutions module
 
-### Full release notes here: 
-https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/blob/master/ReleaseNotes/2018.06.11.md
+- Post Shareathon feedback
+- Revised layout for solution datasheets
+
+### Overview video : https://video.dxc.com/media/t/1_cjx5r3um 
+
+### Full release notes : 
+https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/blob/master/ReleaseNotes/2018.07.13.md
+
+#digitalexplorer
