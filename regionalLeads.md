@@ -6,15 +6,12 @@
 DE Platform leads|Akshay Saigal | Michael Donovan |Mark Nebreda |Axel Szymanski |Iñaki Galera |Ron Brown|David Stevens
 Agenda Managers| | Michael Donovan |Mark Nebreda  |Axel Szymanski |Iñaki Galera |Ron Brown| David Stevens
 
-
-
 # Industry KM Leads
 
 |Industry|KM Lead
 |---|---|
 Healthcare Providers|Cheryl Houston-Walmsley|
 Life Sciences|Cheryl Houston-Walmsley|
-
 
 # CT Industry Leads
 
