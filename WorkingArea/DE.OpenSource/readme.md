@@ -10,9 +10,8 @@ Marcus Mascord <mmascord2@csc.com> - OS lead for DXC
 ### Points to cover
 
 - OS model
-- infrastructure requirements
-- deployment options
-- data content and sync
+- [infrastructure and deployment](Infrarequirements.md)
+- [data content and sync](Dataset.md)
 - cost model for content
 
 

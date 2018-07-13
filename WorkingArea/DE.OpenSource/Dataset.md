@@ -7,6 +7,9 @@ A starter data set can be provided, this includes the following information
 - Reference Solutions
 - any "person" record associated to the above
 
+
+## NEED TO OUTLINE A COST OF THIS CONTENT SET
+
 ## Potential enhancement
 - export and import of "subscriber" datasets
 

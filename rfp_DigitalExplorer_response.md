@@ -43,4 +43,4 @@ Digital Explorer is not a data lake, Digital Explorer is a living dataset.  The 
 ---
 ### Open Source Options
 
-- [readme.md](WorkingArea/DE.OpenSource/readme.md)
+- [DE Open Source](WorkingArea/DE.OpenSource/readme.md)
