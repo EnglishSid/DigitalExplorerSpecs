@@ -7,7 +7,7 @@ OS program Contact  Marcus Mascord <mmascord2@csc.com>
 
 ### Points to cover
 
-- OS model and communities
+- [OS model and communities](OSmodel.md)
 - [infrastructure and deployment](Infrarequirements.md)
 - [data content and sync](Dataset.md)
 - [Support Model](Support.md)
