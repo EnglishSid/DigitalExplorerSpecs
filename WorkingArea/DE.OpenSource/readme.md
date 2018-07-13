@@ -2,20 +2,15 @@
 
 General notes around the potential to opensource the DE platform
 
-
-contacts : 
-
-Marcus Mascord <mmascord2@csc.com> - OS lead for DXC
+<br>
+OS program Contact  Marcus Mascord <mmascord2@csc.com>
 
 ### Points to cover
 
-- OS model
+- OS model and communities
 - [infrastructure and deployment](Infrarequirements.md)
 - [data content and sync](Dataset.md)
-- cost model for content
-
-
-
-
-
-
+- [Support Model](Support.md)
+- Cost model for content
+- [Enablement and training](Enablement&Training)
+- [Technical changes required](Techchanges.md)
