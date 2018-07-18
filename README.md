@@ -17,6 +17,8 @@ DE is not a data lake, DE is a living dataset.  The knowledge is used from withi
 * [DE Mind Map](deMindMap.md)
 * [Release Notes](ReleaseNotes)
 * [Weekly Numbers](WeeklyNumbers.md)
+* [RFP response text](rfp_DigitalExplorer_response.md)
+* [Contributing to Digital Explorer](contributing.md)
 
 ### :books: Meta Models
 * [Complete Model](MetaModels/completeModel.md)
