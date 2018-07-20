@@ -8,6 +8,7 @@
 | Trends | Digital Stories | quick links and highlights from within Digital Explorer and external sources (key trends, showcase solutions, relevant papers) | [Link](https://digitalexplorer.dxc.com/de/stories) |
 | Trends | Trend on a page view | consolidated view of a single trend - industry use cases, demand curve, solutions, contributions (trends and solutions) | [Link](https://digitalexplorer.dxc.com/de/stats/business/387921) |
 | Trends | _Role : Trend Reviewer_ | Internal role - review and approve proposed changes to the trends |   |
+| Trends | Achievements | Earn achievement badges for contributing to the Trends module | [ScreenShot](images/samples/TrendAchievements.png) [Link](https://digitalexplorer.dxc.com/de/achievements) |
 | **Agendas** |   | [Link](https://digitalexplorer.dxc.com/bvr/) |
 | Agendas | Internal Programs and groups | Ability to create internal groups to assign accounts - track progress of the creation of the innovation agendas - filter by industry or region |[ScreenShot](images/samples/AgendaPrograms.png)   |
 | Agendas | Industry templates | Allow users to create and re-use any available templates for their client innovation agendas | [ScreenShot](images/samples/SelectAgendaTemplate.png)   |
@@ -31,6 +32,6 @@
 | Solutions | media and attachments | option to add any supporting media to the solution |   |
 | Solutions | Tags | free form tags to allow users to group or identify solutions (e.g. &quot;Tech Excellence Winners 2018&quot;) |   |
 | Solutions | _Role : Solution Reviewer_ | Internal Role - data quality reports and ability to edit any solution |   |
-
+| Solutions | Achievements | Earn achievement badges for contributing to the Solutions module | [ScreenShot](images/samples/SolutionAchievements.png) [Link](https://digitalexplorer.dxc.com/se/achievements) |
 
 - **Overall Taxonomy** -  Taxonomy is aligned to the global DXC Taxonomy and DE team are part of the taxonomy governance group||
