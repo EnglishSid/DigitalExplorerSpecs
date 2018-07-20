@@ -4,7 +4,7 @@
 
 | **Module** | **Feature** | **Description** | **Link** |
 | --- | --- | --- |---|
-|**Trends** | Industry Trends | Key industry use cases mapped out against a maturity model, grouped by a set of common areas across all industries - ability to build cross relationships between industries | [Link](https://digitalexplorer.dxc.com/de/industry) |
+|Trends | Industry Trends | Key industry use cases mapped out against a maturity model, grouped by a set of common areas across all industries - ability to build cross relationships between industries | [Link](https://digitalexplorer.dxc.com/de/industry) |
 | Trends | Technology Trends | key technology trends mapped out against a maturity model - grouped by technology areas | [Link](https://digitalexplorer.dxc.com/de/technology) |
 | Trends | open collaboration | add/edit trends is open to all DXC employees | [Link](https://digitalexplorer.dxc.com/de/collaboration/main) |
 | Trends | Digital Stories | quick links and highlights from within Digital Explorer and external sources (key trends, showcase solutions, relevant papers) | [Link](https://digitalexplorer.dxc.com/de/stories) |
@@ -15,7 +15,6 @@
 ## Agendas
 | **Module** | **Feature** | **Description** | **Link** |
 | --- | --- | --- |---|
-| **Agendas** |   | [Link](https://digitalexplorer.dxc.com/bvr/) |
 | Agendas | Internal Programs and groups | Ability to create internal groups to assign accounts - track progress of the creation of the innovation agendas - filter by industry or region |[ScreenShot](images/samples/AgendaPrograms.png)   |
 | Agendas | Industry templates | Allow users to create and re-use any available templates for their client innovation agendas | [ScreenShot](images/samples/SelectAgendaTemplate.png)   |
 | Agendas | Client Strategic goals | Capture client strategic goals as they relate to the innovation agenda (incs KPI&#39;s) |[ScreenShot](images/samples/CreateAgenda.png)   |
@@ -31,7 +30,6 @@
 ## Solutions
 | **Module** | **Feature** | **Description** | **Link** |
 | --- | --- | --- |---|
-| **Solutions** |   | | [Link](https://digitalexplorer.dxc.com/se/) |
 | Solutions | Solution Type | Ability to create various types of solutions (demos, prototypes, pilot, labs, production) |   |
 | Solutions | Business Motivations | highest level within the solution model, smart look-up into &quot;trends&quot; (business and technology) and option to create new motivations |   |
 | Solutions | DXC Offering | ability to specify which DXC offerings (sub-offering level) are part of the solution |   |
