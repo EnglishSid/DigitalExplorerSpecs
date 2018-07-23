@@ -41,5 +41,7 @@
 | Solutions | Tags | free form tags to allow users to group or identify solutions (e.g. &quot;Tech Excellence Winners 2018&quot;) |   |
 | Solutions | _Role : Solution Reviewer_ | Internal Role - data quality reports and ability to edit any solution |   |
 | Solutions | Achievements | Earn achievement badges for contributing to the Solutions module | [ScreenShot](images/samples/SolutionAchievements.png) [Link](https://digitalexplorer.dxc.com/se/achievements) |
+| Solutions | WWS Data Sync | Offering and Sub Offering datasync from WWS into Digital Explorer 
 
-- **Overall Taxonomy** -  Taxonomy is aligned to the global DXC Taxonomy and DE team are part of the taxonomy governance group||
+
+- **Overall Taxonomy** -  Taxonomy is aligned to the global DXC Taxonomy and DE team are part of the taxonomy governance group
