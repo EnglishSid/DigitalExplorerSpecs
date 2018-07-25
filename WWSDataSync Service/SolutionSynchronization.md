@@ -135,3 +135,12 @@ wwb:
       is-real-sync: true                                                    # if false - all calculation will be performed but modifications wouldn't be stored
                                                                             # otherwise whole process will be performed 
 ```
+
+## Execution
+
+Synchronization was set up at 06:00 AM on each Monday (server time), but there is a possibility to run synchronization ad hoc.
+
+| Action name                        |     SECURITY ROLE             |   Link |
+|------------------------------------|-------------------------------|--------|
+| Run synchronization                | SolutionSynchronizationAdmin  | [usage](https://ec4t02050.itcs.entsvcs.com/wwb/swagger-ui.html#/solution-sync-controller/runSynchronizationUsingGET)|
+
