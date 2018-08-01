@@ -10,13 +10,12 @@ The master datamodel defines the following core data entities
 - Solutions
 
 | | Trends| Workspaces|Agendas|Solutions|Graph Explorer|Delivery Explorer
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Schema|Y|Y|Y|Y|NA|N
 |Method|Y|Y|Y|Y|Y|N
 |Content|N*|N|N|N*|NA|N
 
-N* : Potential to share content packs between instances
-
+- N* : Potential to share content packs between instances
 
 
 ## Platform Features
