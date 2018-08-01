@@ -9,11 +9,13 @@ The master datamodel defines the following core data entities
 - Innovation Agendas (or business value roadmaps)
 - Solutions
 
-| | Trends| Workspaces|Agendas|Solutions|Graph Explorer|Delivery Explorer
+
+| |Trends|Workspaces|Agendas|Solutions|Graph Explorer|Delivery Explorer|
 |---|---|---|---|---|---|---|
-|Schema|Y|Y|Y|Y|NA|N
-|Method|Y|Y|Y|Y|Y|N
-|Content|N*|N|N|N*|NA|N
+|Schema|Y|Y|Y|Y|NA|N|
+|Method|Y|Y|Y|Y|Y|N|
+|Content|N*|N|N|N*|NA|N|
+
 
 - N* : Potential to share content packs between instances
 
