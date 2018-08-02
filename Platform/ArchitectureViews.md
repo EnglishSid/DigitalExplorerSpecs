@@ -29,7 +29,8 @@
 #### Ports
 
 |Source Server|Target Server|Port|Application|
-|---|---|---|---|---|
+|---|---|---|---|
+|General Users|Frontend ITG|443|web access|
 |Dev team|Frontend Development|443|web access|
 |Dev team|Frontend Development|22|ssh access|
 |Dev team|Backend Development|22|web access|
@@ -38,7 +39,6 @@
 |Dev team|Frontend ITG|22|ssh access|
 |Dev team|Backend ITG|22|web access|
 |Dev team|Backend ITG|7474|neo4j access|
-|General Users|Frontend ITG|443|web access|
 |Dev team|Frontend ITG|22|ssh access|
 |Dev team|Backend ITG|22|web access|
 |Dev team|Backend ITG|7474|neo4j access|
