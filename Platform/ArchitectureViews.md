@@ -50,9 +50,10 @@
 |Frontend Production Server|WWS API|443|WWS Data Sync|
 |Frontend Development Server|SailPoint API|443|SailPoint Data Sync|
 |Frontend ITG Server|SailPoint API|443|SailPoint Data Sync|
-|Frontend Production Server|WWSailPointS API|443|SailPoint Data Sync|
+|Frontend Production Server|SailPoint API|443|SailPoint Data Sync|
 |Jenkins build server|github.dxc.com|22|build requests|
 |dev team|Jenkins build server|443|Jenkins admin|
+|dev team|Jenkins build server|22|Jenkins admin|
 
 
 
