@@ -1,0 +1,13 @@
+Release 2.1 of Platform Design Toolkit (www.platformdesigntoolkit.com) contains: 
+
+1) a newly released User Guide;
+2) Canvas Files in PDF, PNG and SVG format.
+
+To check a full description of the release, please check:
+
+https://medium.com/@meedabyte/releasing-platform-design-toolkit-2-1-6d0a973e0ea9
+
+This work is open source, and is released by Boundaryless S.r.l. under Attribution-ShareAlike 4.0
+International (CC BY-SA 4.0).
+
+A copy of this license is available here: https://creativecommons.org/licenses/by-sa/4.0/legalcode .
