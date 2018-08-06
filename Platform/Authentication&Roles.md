@@ -18,7 +18,7 @@ The following roles and permissions are managed within the platform
 | Add/Edit Digital Story |Trends |   | |X | | | | | X |
 | View Digital Story |Trends |  X | X 
 | View DXC only Digital Story |Trends |  X | 
-| Add solution         |Solutions |  X  | || | | | | X| 
+| Add solution         |Solutions |  X  |X|| | | | | X| 
 | Edit solution        |Solutions | | || X | X | | | X |
 | Toggle solution is Searchable |Solutions |  ||  | |X | | | X |
 | View reference solutions |Solutions | X | X |
@@ -27,6 +27,7 @@ The following roles and permissions are managed within the platform
 | Create innovation agendas |Agendas | X | | | | | | X | | Must have both permissions
 | View innovation Agenda| Agendas |X | X | | | | | X | |  Must have 1 user access permission and account
 | Export innovation Agenda| Agendas |X | | | | | | X | | Must have both permissions
+| Edit innovation agendas |Agendas | X | | | | | | X | | Must have both permissions
 | Create training Agenda| Agendas |X | X | 
 | Create innovation template |Agendas | X | | | | | | |  |
 | View Agenda Insights | Agendas |X | 
