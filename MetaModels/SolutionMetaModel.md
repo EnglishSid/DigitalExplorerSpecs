@@ -30,7 +30,7 @@ Ratio : 1
 |solution.FTE|total number of resources who delivered the solution (end-2-end)|number
 
 
-####Node Label: SFDCInfo
+#### Node Label: SFDCInfo
 Scope : Captures key information related to the SFDC opportunity
 Architecture Layer : Business
 Ratio : n:n
@@ -41,7 +41,7 @@ Ratio : n:n
 |OpportunityID|ID of the SFDC opportunity|string
 
 
-####Node Label: Motivation
+#### Node Label: Motivation
 Scope : Key Business drivers and goals
 Architecture Layer : Business
 Ratio : 1:n
@@ -67,7 +67,7 @@ Ratio : 1:n
 |description  
 
 
-#####Node Label: BusinessTrend
+##### Node Label: BusinessTrend
 Scope :  Readonly - selected from trend catalog
 Architecture Layer : Business
 Ratio : 1:n
@@ -115,7 +115,6 @@ Ratio : 1:n
 |id|system generated
 |name|as defined in Global Pass
 |email|as defined in Global Pass
-
 
 
 
@@ -232,6 +231,30 @@ Ratio : n:n
 |id|system generated
 |name |
 
+#### Node Label: Attachment
+Scope : Information related to any attachments associated with the solution
+Ratio : 1:n
+
+|Property|Description|
+|----|----|
+|id|system generated
+|name |short name of the attachment
+|size| calculated filesize of any uploaded attachment
+|attachmentType|LOCAL or REMOTE  identifier 
+|docType|file type identifier, eg PDF, video
+|uri|location of the attachment 
+
+
+#### Node Label: DocumentationCategory
+Scope : Extended defintion node for the type of documentation (e.g `github repo`)
+Readonly - defined within master dictionary 
+Ratio : 1:1
+
+|Property|Description|
+|----|----|
+|id|system generated
+|name |
+
 
 ### Relationships
 |Source|Destination|Name|Properties|
@@ -253,3 +276,5 @@ Ratio : n:n
 |Solution|Region|SOLUTION_IN_REGION
 |Account|SubIndustry|ASSIGNED
 |SubIndustry|Industry|VALUEOF
+|Solution|Attachment|DESCRIBEDBY
+|Attachment|DocumentationCategory|ofType
