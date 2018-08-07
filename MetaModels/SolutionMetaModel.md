@@ -278,3 +278,6 @@ Ratio : 1:1
 |SubIndustry|Industry|VALUEOF
 |Solution|Attachment|DESCRIBEDBY
 |Attachment|DocumentationCategory|ofType
+|Solution|Practice|ASSOCIATED_TO
+|Feature|ConfigurationPlan|REALIZED_BY
+|Solution|ConfigurationPlan|REALIZED_BY
