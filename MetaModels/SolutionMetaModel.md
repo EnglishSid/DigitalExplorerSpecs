@@ -267,7 +267,7 @@ Ratio : 1:1
 |Solution|Feature|REALIZED_BY
 |FeatureSet|Feature|REALIZED_BY
 |Feature|FeatureCategory|OFCATEGORY
-|Feature|TechnologyGroup|ASSOCIATED_TO
+|Feature|TechnologyGroup|REALIZEDBY
 |Solution|OfferingFamily|ASSOCIATED_TO
 |Solution|Category|ASSOCIATED_TO
 |Solution|SolutionType|OfType
@@ -289,9 +289,6 @@ Ratio : 1:1
 
 | Date | By | Description
 |---|---|---|
-|Jan 2018| @dstevens26 | First version
-|May 2018| @dstevens26 | Updates to the attachment model (DocType)
-|August 2018| @dstevens26 | Updates to solution properties for Quantitate values, new SFDC node, relationship to Region
-
-
-@dstevens26
+|Jan 2018| [David Stevens](@dstevens26) | First version
+|May 2018| [David Stevens](@dstevens26) | Updates to the attachment model (DocType)
+|August 2018| [David Stevens](@dstevens26) | Updates to solution properties for Quantitate values, new SFDC node, relationship to Region
