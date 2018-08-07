@@ -68,22 +68,37 @@ Specialized instance of the business or technology trend within the innovation a
 |description|extended description of the disruptor, can be changed
 |businessArea|picklist - defines the business area this disruptor is impacting
 |segment|location within the agenda Q1-Y3+
-|trendType|system generate for catalog trends, picklist for signalss - reference to the type of disruptor BUSINESS or TECHNOLOGY
-|innovationLevel|picklist - defines the innovation level assoicated to this disruptor and the client
+|trendType|system generate for catalog trends, picklist for signals - reference to the type of disruptor BUSINESS or TECHNOLOGY
+|innovationLevel|picklist - defines the innovation level associated to this disruptor and the client
 |focusArea|flag to set the value if the disruptor becomes a focus area for the account team
 
 
-##### Node Label: ClientStrategicInitative
-Outcome of the innovation agenda, selected focus areas are combined to create a new strategic initative
+##### Node Label: ClientStrategicInitiative
+Outcome of the innovation agenda, selected focus areas are combined to create a new strategic initiative
 
 |Property|Description|
 |----|----|
 |id|system generated
-|Name|short name of the client strategic initative
+|Name|short name of the client strategic initiative
 |creationDate|system generated creation date
 |modifiedDate|system generated last modified date
 |description| extended description of the 
 |SFDCID| free text to capture the SFDC id
+
+
+
+##### Node Label: DXCInternalProgram
+Internal program group to help track the creation of innovation agendas
+
+|Property|Description|
+|----|----|
+|id|system generated
+|Name|short name of the internal program
+|description|long description of the internal program
+|starttime|start date of the program
+|endtime|target completion date of the program
+|isActive|boolean value is program active `true` or ` false`
+
 
 
 #### Relationships
@@ -102,6 +117,19 @@ Outcome of the innovation agenda, selected focus areas are combined to create a 
 |ClientDisruptor|ClientValueChain|DISRUPTORS
 |ClientDisruptor|BusinessTrend|SPECIALIZES
 |ClientDisruptor|TechnologyTrend|SPECIALIZES
-|ClientStrategicInitative|ClientDistruptor|ASSIGNED
-|ClientStrategicInitative|KPI|ADDRESSES
-|ClientStrategicInitative|AgendaGoal|ADDRESSES
+|ClientStrategicInitiative|ClientDistruptor|ASSIGNED
+|ClientStrategicInitiative|KPI|ADDRESSES
+|ClientStrategicInitiative|AgendaGoal|ADDRESSES
+|Account|DXCInternalProgram|MEMBER_OF
+
+
+
+----
+
+## Change log
+
+| Date | By | Description
+|---|---|---|
+|Jan 2018| David Stevens | First version
+|May 2018| David Stevens | DXCInternalProgram - allow accounts to be grouped into internal programs
+|June 2018| David Stevens | updates to ClientStrategicInitiative, allow KPI's and Goals to be related to these.
