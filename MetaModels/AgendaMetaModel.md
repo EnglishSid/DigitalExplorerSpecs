@@ -28,7 +28,7 @@
 |id|system generated
 |name| Name of the client value chain **Required**
 |Description| extended description of the client value chain
-|businessArea| pick-list - assoicated business area from the DE trend model
+|businessArea| pick-list - associated business area from the DE trend model
 |notes | free text to add notes
 
 
@@ -46,7 +46,7 @@
 |----|----|
 |id|system generated
 |name|short description of the KPI
-|measure|assoicated measure for the KPI
+|measure|associated measure for the KPI
 
 
 ##### Node Label: Stakeholder
