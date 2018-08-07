@@ -246,7 +246,7 @@ Ratio : 1:n
 
 
 #### Node Label: DocumentationCategory
-Scope : Extended defintion node for the type of documentation (e.g `github repo`)
+Scope : Extended definition node for the type of documentation (e.g `github repo`)
 Readonly - defined within master dictionary 
 Ratio : 1:1
 
@@ -281,3 +281,14 @@ Ratio : 1:1
 |Solution|Practice|ASSOCIATED_TO
 |Feature|ConfigurationPlan|REALIZED_BY
 |Solution|ConfigurationPlan|REALIZED_BY
+
+
+----
+
+## Change log
+
+| Date | By | Description
+|---|---|---|
+|Jan 2018|@dstevens26| First version
+|May 2018| @dstevens26| Updates to the attachment model (DocType)
+|August 2018|@dstevens26 | Updates to solution properties for Quantitate values, new SFDC node, relationship to Region
