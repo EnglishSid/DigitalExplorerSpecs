@@ -9,18 +9,36 @@ Scope : Top level object for solutions
 Architecture Layer : Business
 Ratio : 1
 
-|Property|Description|
-|----|----|
+|Property|Description|type|limits
+|----|----|----|----|
 |id|system generated
-|objectClass|system generated value = Archimate_Product
-|name |name of the solution
-|description |extended description of the solution
-|elevatorPitch |short description of the solution - 140 character max
-|generalValue |value proposition 
-|creationDate |system generated creation date
-|lastModificationDate |system generated last modified date
-|referenceable|boolean value to set if solution is externally referencable - default = no
-|searchable|boolean value to set if the solution is returned in the search results - default = yes
+|objectClass|system generated value = `Archimate_Product`|string
+|name |name of the solution|string
+|description |extended description of the solution|string
+|elevatorPitch |short description of the solution |string|140 characters
+|generalValue |value proposition |string
+|creationDate |system generated creation date|longdate
+|Status|Status of the solution|string
+|lastModificationDate |system generated last modified date|longdate
+|referenceable|value to set if solution is externally referencable|string |default = no
+|searchable|boolean value to set if the solution is returned in the search results|boolean| default = `true`
+|solution.BusinessValue|Quantitate value of the solution in terms of business outcomes|string
+|solution.TechnicalValue|Quantitate value of the solution in terms of technical outcomes|string
+|solution.Savings|total savings of the solution in K$|number
+|Solution.ImplementationTime|total implementation time for the solution|number
+|solution.TCV|total contract value of the solution|number
+|solution.FTE|total number of resources who delivered the solution (end-2-end)|number
+
+
+####Node Label: SFDCInfo
+Scope : Captures key information related to the SFDC opportunity
+Architecture Layer : Business
+Ratio : n:n
+
+|Property|Description|type|limits
+|----|----|----|----|
+|id|system generated
+|OpportunityID|ID of the SFDC opportunity|string
 
 
 ####Node Label: Motivation
@@ -84,7 +102,6 @@ Ratio : 1:n
 |id|system generated
 |name |
 |description  
-
 
 
 
@@ -205,9 +222,21 @@ Ratio : 1:1
 |id|system generated
 |name |
 
+#### Node Label: Region
+Scope : defines the region the solution has been deployed into, or can be deployed into
+Readonly - defined within master dictionary 
+Ratio : n:n
+
+|Property|Description|
+|----|----|
+|id|system generated
+|name |
+
+
 ### Relationships
 |Source|Destination|Name|Properties|
 |----|----|----|----|
+|Solution|SFDCInfo|RELATES_TO
 |Motivation|Solution|INFLUENCE
 |TechnologyTrend|Solution|INFLUENCE
 |BusinessTrend|Solution|INFLUENCE
@@ -221,5 +250,6 @@ Ratio : 1:1
 |Solution|SolutionType|OfType
 |Solution|Account|ASSIGNED
 |Solution|Category|ASSIGNED
+|Solution|Region|SOLUTION_IN_REGION
 |Account|SubIndustry|ASSIGNED
 |SubIndustry|Industry|VALUEOF
