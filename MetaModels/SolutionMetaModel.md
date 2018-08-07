@@ -289,6 +289,9 @@ Ratio : 1:1
 
 | Date | By | Description
 |---|---|---|
-|Jan 2018|@ dstevens26 | First version
-|May 2018| @ dstevens26 | Updates to the attachment model (DocType)
-|August 2018|@ dstevens26 | Updates to solution properties for Quantitate values, new SFDC node, relationship to Region
+|Jan 2018| @dstevens26 | First version
+|May 2018| @dstevens26 | Updates to the attachment model (DocType)
+|August 2018| @dstevens26 | Updates to solution properties for Quantitate values, new SFDC node, relationship to Region
+
+
+@dstevens26
