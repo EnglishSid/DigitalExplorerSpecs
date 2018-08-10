@@ -4,9 +4,9 @@ as of August 10th
 - [Life of a trend](Life-of-a-trend)
 
 ## Demand Reports
-- [Top 10 trends](#Top-10-trends)
-- [Top 10 focus areas](#Top-10-focus-areas)
-- [Top 10 Strategic Trends](#Top-10-Strategic-Trends)
+- [Top 10 trends](#top-10-trends)
+- [Top 10 focus areas](#top-10-focus-areas)
+- [Top 10 Strategic Trends](#top-10-strategic-trends)
 
 :bulb: All the demand reports here can be run directly within the [DE Platform](https://digitalexplorer.dxc.com/bvr/insights)
 
