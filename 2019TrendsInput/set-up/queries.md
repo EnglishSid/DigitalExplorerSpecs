@@ -18,7 +18,8 @@ LIMIT 10
 ~~~
 
 
-##  frequency of strategic trends
+##  Top 10 Strategic Trends
+~~~
 //Calculate
 MATCH (csi:ClientStrategicInitiative)-[]->(:ClientDisruptor)-[:SPECIALIZES]->(trend)
 WITH count(DISTINCT csi) AS total
@@ -33,15 +34,17 @@ WITH split(tolower(result), ',') AS keyTrends,result,t
 UNWIND range (0,size(keyTrends)-1) as i 
 MERGE (ac:KeyTrend {name:keyTrends[i]})-[:ITEM]->(t)
 return t,ac
+~~~
 
-
-## return the results
+### return the results
+~~~
 MATCH (kt:KeyTrend)-[]-(t:test)
 WITH  t, COLLECT(t) AS nodelist, COUNT(*) AS count
 WHERE count > 6
 with t
 match (kt:KeyTrend)-[]-(t)
 return kt,t
+~~~
 
 ## top 10 trends by solution
 ~~~
