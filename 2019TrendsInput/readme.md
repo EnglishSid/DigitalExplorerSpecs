@@ -1,7 +1,7 @@
 # Snapshot of current insights from Digital Explorer
 as of August 10th
 
-- [Life of a trend](life-of-a-trend)
+- [Life of a trend](#life-of-a-trend)
 
 ## Demand Reports
 - [Top 10 trends](#top-10-trends)
@@ -12,7 +12,7 @@ as of August 10th
 
 
 ## Deliver Report
-- [Top trends within delivered Solutions](#Top-trends-within-delivered-Solutions)
+- [Top trends within delivered Solutions](#top-trends-within-delivered-solutions)
 
 ## Note on the current dataset
 Digital Explorer is still being rolled out across DXC, a number of regions have not yet included their innovation agendas within the platform.
