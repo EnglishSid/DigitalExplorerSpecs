@@ -4,15 +4,15 @@ as of August 10th
 - [Life of a trend](Life-of-a-trend)
 
 ## Demand Reports
-- [Top 10 trends](Top-10-trends)
-- [Top 10 focus areas](Top-10-focus-areas)
-- [Top 10 Strategic Trends](Top-10-Strategic-Trends)
+- [Top 10 trends](#Top-10-trends)
+- [Top 10 focus areas](#Top-10-focus-areas)
+- [Top 10 Strategic Trends](#Top-10-Strategic-Trends)
 
 :bulb: All the demand reports here can be run directly within the [DE Platform](https://digitalexplorer.dxc.com/bvr/insights)
 
 
 ## Deliver Report
-- [Top trends within delivered Solutions](Top-trends-within-delivered-Solutions)
+- [Top trends within delivered Solutions](#Top-trends-within-delivered-Solutions)
 
 ## Note on the current dataset
 Digital Explorer is still being rolled out across DXC, a number of regions have not yet included their innovation agendas within the platform.
