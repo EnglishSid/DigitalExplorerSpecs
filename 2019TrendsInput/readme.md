@@ -103,35 +103,36 @@ embracing digitisation in products and services<br>- it & ot convergence - resil
 
 
 ### Sample of descriptions from of Strategic Programs
-~~~
-Smart Digital Platform	
-DXC’s long-term strategic vision for BP is to optimise its Exploration and Production (E&P) operations with a connected smart digital gas and oil platform, using Industrie 4.0 techniques and technologies to make E&P smarter and more productive through higher levels of digitisation and automation.
-A robust digital culture and skills, attracting, retaining, and training ‘digital natives’ and other employees comfortable working in a dynamic eco-system environment is required.  Potential capabilities of a BP Smart Digital Oil Platform include:
+
+> Smart Digital Platform<br>	
+> DXC’s long-term strategic vision for BP is to optimise its Exploration and Production (E&P) operations with a connected smart digital gas and oil platform, using Industrie 4.0 techniques and technologies to make E&P smarter and more productive through higher levels of digitisation and automation.
+> A robust digital culture and skills, attracting, retaining, and training ‘digital natives’ and other employees comfortable working in a dynamic eco-system environment is required.  Potential capabilities of a BP Smart Digital Oil Platform include:
 •	#11 - Real Time Analytics / Digital Twins/Geospatial - creating a ‘digital twin’ virtual  copy of the physical world by enriching digital platform models  with real-time sensor data, in order  to contextualise information, using  Machine Learning (ML), self-  optimisation, self-configuration and  even Artificial Intelligence (AI) to  learn and control robotics with very  little input from human operators.
 •	#1 - Machine Room Oversight / Predictive Analytics to deliver higher  productivity and cost reductions from predictive maintenance.
 •	#4 - Command Center Automation/Remote Control allowing remote completion of complex  tasks by centralised specialist teams using high levels of automation to deliver higher  productivity, quality assurance and improved safety for  BP employees, by conducting tasks  that are unpleasant, too exhausting, or unsafe for human workers.
 •	Combining software, sensors,  processors, data storage,  interconnections and  communications technology, with  appropriate security to ensure  digital trust.
 •	Industrial IoT (IIoT) sensors and  cyber-physical systems (existing,  retrofitted or designed into new  facilities) gathering machinery and  platform data, making simple  decisions on their own and  becoming as autonomous as  possible.  E.g. #10 - yield optimisation through edge deployed sensors with embedded analytics.
 •	Migrating from current systems, e.g. from classic SCADA systems, to  a mesh-like services architecture,  connecting ‘things’ and apps in  Cyber Physical Production Systems  (CPPS). This could include:
-- #5 - Autonomous Vehicles and Platforms, from assistive through to  autonomous CPPS capabilities, e.g.  swarm navigation for a fleet of  Automated Guided Vehicles (AGV)  moving materials around within BP’s  facilities, automated root cause  analysis and recovery from  incidents.
-- The use of industrial  communications and interface  standards.
-- Semantic  device/component/service data  models.
-- Fine-grained modular services,  potentially moving away from the  conventional SCADA and other  systems currently used. 
-- Industrial security, safety and  resilience, including dynamic  analytics-enabled security.
-•	The integration of platform  Operational Technology (OT) and  enterprise IT systems, allowing:
-- The merging of sensor data with  data from enterprise IT systems,  such as SAP, to support data  analytics and Business Intelligence.
-- Gathered sensor and other data to  be passed over to systems that can store the very large quantity of data  points gathered over time.
-~~~
+> - #5 - Autonomous Vehicles and Platforms, from assistive through to  autonomous CPPS capabilities, e.g.  swarm navigation for a fleet of  Automated Guided Vehicles (AGV)  moving materials around within BP’s  facilities, automated root cause  analysis and recovery from  incidents.
+> - The use of industrial  communications and interface  standards.
+> - Semantic  device/component/service data  models.
+> - Fine-grained modular services,  potentially moving away from the  conventional SCADA and other  systems currently used. 
+> - Industrial security, safety and  resilience, including dynamic  analytics-enabled security.
+> •	The integration of platform  Operational Technology (OT) and  enterprise IT systems, allowing:
+> - The merging of sensor data with  data from enterprise IT systems,  such as SAP, to support data  analytics and Business > Intelligence.
+> - Gathered sensor and other data to  be passed over to systems that can store the very large quantity of data  points gathered over time.
 
 
-~~~
-Enerlytics /Analytics Platform FeroLabs	Follow-up with FeroLabs from Us Tour PlugAndPlay session to see how FeroLabs ML could be used in Enerlytics
-~~~
 
-~~~
-Adaptive Business Operating Model through Agile IT	
-"FedEx Express Group are seeking options to ensure security, reliability and scalability for their IT Services. Hybrid Cloud meets the “Renewal Manifesto” and several of its’ Technical Tenets/Principles i.e. API First, Cloud-Native Architecture and DevSecOps.
-~~~
+
+> Enerlytics /Analytics Platform FeroLabs<br>
+> 	Follow-up with FeroLabs from Us Tour PlugAndPlay session to see how FeroLabs ML could be used in Enerlytics
+
+
+
+> Adaptive Business Operating Model through Agile IT	<br>
+> "FedEx Express Group are seeking options to ensure security, reliability and scalability for their IT Services. Hybrid Cloud meets the “Renewal Manifesto” and several of its’ Technical Tenets/Principles i.e. API First, Cloud-Native Architecture and DevSecOps.
+
 
 
 ## Top trends within delivered Solutions
