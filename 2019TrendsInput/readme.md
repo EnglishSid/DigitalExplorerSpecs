@@ -1,7 +1,7 @@
 # Snapshot of current insights from Digital Explorer
 as of August 10th
 
-- [Life of a trend](Life-of-a-trend)
+- [Life of a trend](life-of-a-trend)
 
 ## Demand Reports
 - [Top 10 trends](#top-10-trends)
