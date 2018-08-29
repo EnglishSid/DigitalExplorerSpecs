@@ -1,12 +1,14 @@
 # New release just deployed
 
-## Solutions module
+## Agendas Module
 
-- What We Sell Data Sync
+- New insights module
+- improved pdf export
+- trend information
 
-### Overview video : https://video.dxc.com/media/t/1_p1b6f3yg 
+### Overview video : https://video.dxc.com/media/t/1_mhh4g3kv
 
 ### Full release notes : 
-https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/blob/master/ReleaseNotes/2018.07.23.md
+https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/blob/master/ReleaseNotes/2018.08.29.md
 
 #digitalexplorer
