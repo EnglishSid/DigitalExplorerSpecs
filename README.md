@@ -21,12 +21,6 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 * [Release Notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes)
 * [Contributing to Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/contributing.md)
 
-### Internal only
-
-* [DE Mind Map](internalContent/deMindMap.md)
-* [Weekly Numbers](internalContent/WeeklyNumbers.md)
-* [RFP response text](internalContent/rfp_DigitalExplorer_response.md)
-
 ### :books: Meta Models
 * [Complete Model](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/completeModel.md)
 * [Business Trends MetaModel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/BusinessTrendMetaModel.md)
@@ -38,3 +32,13 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 ### :busts_in_silhouette: Contacts
 
 * Product Owner/Architect : David Stevens (davidstevens@dxc.com)
+
+---
+
+### Internal only
+
+* [DE Mind Map](internalContent/deMindMap.md)
+* [Weekly Numbers](internalContent/WeeklyNumbers.md)
+* [RFP response text](internalContent/rfp_DigitalExplorer_response.md)
+* [Content RACI](internalContent/ContentRACI.md)
+* [Stakeholders](Stakeholders.md)
