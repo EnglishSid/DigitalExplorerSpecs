@@ -23,17 +23,17 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 
 ### Internal only
 
-* [DE Mind Map](deMindMap.md)
-* [Weekly Numbers](WeeklyNumbers.md)
-* [RFP response text](rfp_DigitalExplorer_response.md)
+* [DE Mind Map](internalContent/deMindMap.md)
+* [Weekly Numbers](internalContent/WeeklyNumbers.md)
+* [RFP response text](internalContent/rfp_DigitalExplorer_response.md)
 
 ### :books: Meta Models
-* [Complete Model](MetaModels/completeModel.md)
-* [Business Trends MetaModel](MetaModels/BusinessTrendMetaModel.md)
-* [Technology Trends Metamodel](MetaModels/TechnologyTrendMetaModel.md)
-* [Roadmap Metamodel](MetaModels/RoadmapMetaModel.md)
-* [Solutions MetaModel](MetaModels/SolutionMetaModel.md)
-* [Workspace metamodel](MetaModels/WorkspaceMetaModel.md)
+* [Complete Model](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/completeModel.md)
+* [Business Trends MetaModel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/BusinessTrendMetaModel.md)
+* [Technology Trends Metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/TechnologyTrendMetaModel.md)
+* [Roadmap Metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/RoadmapMetaModel.md)
+* [Solutions MetaModel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/SolutionMetaModel.md)
+* [Workspace metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/WorkspaceMetaModel.md)
 
 ### :busts_in_silhouette: Contacts
 
