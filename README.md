@@ -46,3 +46,4 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 * [Content RACI](internalContent/ContentRACI.md)
 * [Stakeholders](internalContent/Stakeholders.md)
 * [Regional Leads](internalContent/regionalLeads.md)
+* [Graphie award photos](internalContent/GraphieAwards.readme.md)
