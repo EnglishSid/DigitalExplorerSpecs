@@ -29,6 +29,9 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 * [Solutions MetaModel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/SolutionMetaModel.md)
 * [Workspace metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/WorkspaceMetaModel.md)
 
+### :trophy: Awards
+* [Neo4j Graph Impact award 2018 for Digital Transformation](https://neo4j.com/news/2018-graphie-award-winners/)
+
 ### :busts_in_silhouette: Contacts
 
 * Product Owner/Architect : David Stevens (davidstevens@dxc.com)
