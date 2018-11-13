@@ -10,24 +10,23 @@ Proposal for 3 workshops
 - set-up
 - testing
 
-
 ## Workshop 2 : Business overview
-- introduction to the DXC Digital Explorer platform
-- the end-2-end process (1)
-- the Trends module
-- the Roadmaps module
-- the Solutions module
+- Introduction to the DXC Digital Explorer platform
+- The end-2-end process (1)
+- The Trends module
+- The Roadmaps module
+- The Solutions module
 - The Workspaces module
-- the end-2-end process (2)
-- submitting enhancement requests
-- wrap-up
+- The end-2-end process (2)
+- Submitting enhancement requests
+- Wrap-up
 
 
 ## Workshop 3 : Developer day 2
-- introduction to Graph databases
-- the DXC Digital Explorer Datamodel
-- forking and contributing
-- building your first 
+- Introduction to Graph databases
+- The DXC Digital Explorer Datamodel
+- Forking and contributing
+- Building your first 
 
 
 ### Trainer Skills required
