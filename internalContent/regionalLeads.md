@@ -2,7 +2,7 @@
 
 |Domain|ASIA|AMS|ANZ|NC Europe|S Europe|UKIIMEA|Global|
 |---|---|---|---|---|---|---|---|
-|Regional CTO|Daniel Angelucci|Stephen Singh |Daniel Biondi|Melih Yener|Juan Juan|Sukhi Gill|
+|Regional CTO|Daniel Angelucci|Stephen Singh |Daniel Biondi|Axel Szymanski|Juan Juan|Sukhi Gill|
 DE Platform leads|Akshay Saigal | Michael Donovan |Mark Nebreda |Axel Szymanski |Iñaki Galera |Ron Brown|David Stevens
 Agenda Managers| | Michael Donovan |Mark Nebreda  |Axel Szymanski |Iñaki Galera |Ron Brown| David Stevens
 
@@ -21,7 +21,7 @@ Aerospace & Defence| |Chris Lennon| | Jürgen Dettling || Ged Cunliffe; Phil Lat
 Airlines|Akshay Saigal|	John Tsucalas ;Jeff Keller| | Jürgen Dettling | |
 Automotive|John Wei| | |Jürgen Dettling | |Phil Mullis
 Banking|Randeep Kapur|Tom Hetterscheidt|Fay Flevaras;  Rob McKenzie|Mirza Ahmad|Cesc Gudayol;Maria  Rodriguez;Agostino Rosso; Juan Juan|Andrew Dare|
-Communication Service Providers| |Hassan Alzein| | Melih Yener| | Ron Brown
+Communication Service Providers| |Hassan Alzein| | - | | Ron Brown
 Consumer| |Marianne Wilcox|Rodney Hobbs	| |Fabrice Oudert|Stuart Lawrence
 Freight & Logistics	||Michael Donovan |Curt Kjaersgaard|Yves Vanderbeken| |Jason Campion
 Healthcare Providers|Akshay Saigal|Rikin Patel|David Pare ||Iñaki Galera;  Luciano Boschetti|Stuart Lawrence|Femi Ladega|
