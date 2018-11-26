@@ -66,8 +66,8 @@
 
 
 ## Page views
-|w/c|Trends|Solutions|Agendas|Workspaces|
-|---|----|---|---|---|
+|w/c|Trends|Solutions|Agendas|Workspaces| |
+|---|----|---|---|---|---|
 |02-Oct|672|245|877|7
 |09-Oct|1867|528|255|29
 |16-Oct|993|493|487|4
