@@ -4,11 +4,11 @@
 
 ## Digital Transformation related groups
 
-- Content 
-    - Key updates to the DE platform to support the Digital Blueprint
-    - Campaigns and contests
+### Content 
+ - Key updates to the DE platform to support the Digital Blueprint
+ - Campaigns and contests
 
-
+### Groups
 - [Digital Transformation Boot Camps - Collaboration](https://dxc.facebook.com/groups/201773430434459/)
 - [Digital Transformation](https://dxc.facebook.com/groups/digitaltransform/)
 - [UKIIMEA Digital Enablement](https://dxc.facebook.com/groups/556908398075589/)
@@ -21,10 +21,11 @@
 
 ## Industry Groups
 
-- Content
-    - New showcase solutions captured in DE
-    - Campaigns and contests
+### Content
+- New showcase solutions captured in DE
+- Campaigns and contests
 
+### Groups
 - [Banking & Capital Markets Industry](https://dxc.facebook.com/groups/DXCBanking/)
 - _Communications, Media & Entertainment (no group)_
 - [Consumer Industries](https://dxc.facebook.com/groups/203763983504506/)
