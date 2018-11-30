@@ -43,5 +43,5 @@
 |Group|Content|
 |---|---|
 |[MyDXCGraph](https://dxc.facebook.com/groups/1713031215477839/)|Analytics and backend related updates
-[[Office of the CTO]()]|Any general updates, campaigns and contests
+[[Office of the CTO](https://dxc.facebook.com/groups/DXCoCTO/)]|Any general updates, campaigns and contests
 [[Offering Delivery and Transformation (OD&T)](https://dxc.facebook.com/groups/OfferingDeliveryTransformation)]|Any general updates, campaigns and contests
