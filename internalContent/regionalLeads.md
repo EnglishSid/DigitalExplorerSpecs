@@ -3,7 +3,7 @@
 |Domain|ASIA|AMS|ANZ|NC Europe|S Europe|UKIIMEA|Global|
 |---|---|---|---|---|---|---|---|
 |Regional CTO|Daniel Angelucci|Stephen Singh |Daniel Biondi|Axel Szymanski|Juan Juan|Sukhi Gill|
-DE Platform leads|Akshay Saigal | Michael Donovan |Mark Nebreda |Axel Szymanski |Iñaki Galera |Ron Brown|David Stevens
+DE Platform leads|Akshay Saigal | Michael Donovan |Mark Nebreda |Axel Szymanski |Iñaki Galera |Steve Nicholls|David Stevens
 Agenda Managers| | Michael Donovan |Mark Nebreda  |Axel Szymanski |Iñaki Galera |Ron Brown| David Stevens
 
 # Industry KM Leads
