@@ -1,12 +1,12 @@
 ## Users
-|w/c|Trends|Solutions|Agendas|Workspaces| |
-|---|----|---|---|---|---|
+|w/c|Trends|Solutions|Agendas|Workspaces| Playbooks| |
+|---|---|---|---|---|---|---|---|
 02-Oct|	144|35	|21|	2|
 09-Oct|	301|	113|	25|	7|
 16-Oct|	132|	51	|28|	2|
 23-Oct|	217|	70	|26|	4|
 30-Oct|	175|	79|	21|	11|
-06-Nov|	692|	249|	19|	9|  <--mydxc newsletter|
+06-Nov|	692|	249|	19|	9|  |<--mydxc newsletter|
 13-Nov|	407|	161|	14|	14|
 20-Nov|166|	64|	12|4
 27-Nov|	156|	71|10|4	
@@ -38,7 +38,7 @@
 27-May|101|51|10|4
 3-Jun|118|53|14|1
 10-Jun|115|68|10|4
-17-Jun|159|270|17|8|Shareathon
+17-Jun|159|270|17|8||Shareathon
 24-Jun|122|226|11|7
 1-Jul|126|120|14|2
 8-Jul|115|61|3|4
@@ -49,9 +49,9 @@
 12-Aug|99|59|5|2
 19-Aug|114|47|9|0
 26-Aug|112|49|5|2
-2-Sep|148|196|2|5|Tech excellence week 1
-9-Sep|158|321|6|4|Tech excellence week 2
-16-Sep|130|251|7|4|Tech excellence week 3
+2-Sep|148|196|2|5||Tech excellence week 1
+9-Sep|158|321|6|4||Tech excellence week 2
+16-Sep|130|251|7|4||Tech excellence week 3
 23-Sep|127|125|14|1
 30-Sep|112|103|9|3
 7-Oct|131|109|15|6
@@ -67,11 +67,12 @@
 16-Dec|108|176|15|7
 23-Dec|26|19|0|2
 30-Dec|64|39|8|2
+6-Jan|157|102|33|9
 
 
 ## Page views
-|w/c|Trends|Solutions|Agendas|Workspaces| |
-|---|----|---|---|---|---|
+|w/c|Trends|Solutions|Agendas|Workspaces|Playbooks| |
+|---|---|---|---|---|---|---|---|
 |02-Oct|672|245|877|7
 |09-Oct|1867|528|255|29
 |16-Oct|993|493|487|4
@@ -109,7 +110,7 @@
 27-May|479|443|107|4
 3-Jun|714|384|129|2
 10-Jun|680|384|138|8
-17-Jun|866|2480|119|17|Shareathon
+17-Jun|866|2480|119|17| |Shareathon
 24-Jun|612|1694|71|11
 1-Jul|615|695|65|15
 8-Jul|534|404|12|11
@@ -120,9 +121,9 @@
 12-Aug|672|206|26|2
 19-Aug|518|134|63|0
 26-Aug|518|154|117|2
-2-Sep|656|938|17|5|Tech excellence week 1
-9-Sep|1003|2022|48|11|Tech excellence week 2
-16-Sep|737|1577|121|4|Tech excellence week 3
+2-Sep|656|938|17|5||Tech excellence week 1
+9-Sep|1003|2022|48|11||Tech excellence week 2
+16-Sep|737|1577|121|4||Tech excellence week 3
 23-Sep|852|679|119|3
 30-Sep|613|586|59|3
 7-Oct|650|515|112|15
@@ -138,3 +139,4 @@
 16-Dec|784|1049|49|9
 23-Dec|196|176|0|8
 30-Dec|378|320|50|7
+6-Jan|1199|681|549|19
