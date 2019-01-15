@@ -28,13 +28,10 @@
 |CME|||Paul Canterbury|||Ron Brown||
 |Public Sector|Yik Joon Ho||Jack Story<br>Paul Sluis<br>John Godfrey<br>|Peter Grostol|Yves Vanderbeken<br>Luciano Boschetti|Ron Brown<br>Paul Teece||
 
-
-
-
-
 # Industry KM Leads
 
 |Industry|KM Lead|
 |---|---|
+|Digital KM| Andy Sollis|
 |Healthcare Providers|Cheryl Houston-Walmsley|
 |Life Sciences|Cheryl Houston-Walmsley|
