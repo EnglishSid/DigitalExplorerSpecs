@@ -1,18 +1,19 @@
 ### Summary Statement
-Understanding and relating key technology shifts to client outcomes is the key challenge for Digital Transformation.Progressing those client requirements to fully delivered solutions is the power of DXC Digital Explorer.
+Understanding and relating key technology shifts to client outcomes is the key challenge for Digital Transformation.Progressing those client requirements to fully delivered solutions is the power of DXC Digital Explorer and position DXC as a knowledge driven business.
+
 
 
 
 ### Elevator Pitch
 
-DXC Digital Explorer is a digital engagement platform, connecting technology trends to core business outcomes for DXC clients.
+DXC Digital Explorer is our primary platform for shaping digital engagements.  It provides key information on industry trends, DXC solutions and account innovation agendas.  You can further develop client-specific digital roadmaps and ideas; ideas which will be further developed in the platform as they progress in to accelerated solutioning
 
 1. Understand digital industry use cases and their enabling technologies
 1. Shape a client's roadmap based on their strategic goals and how technology can help reach our clients goals
 1. Take ideas from roadmaps and create projects and solutions via DXC’s Accelerated Solution Development methodology
 
-
 DXC is Digital Delivered.
+
 
 
 ### Narrative

@@ -26,6 +26,7 @@
 | crown                      | :crown: `:crown:`
 | tips                       | :bulb: `:bulb:`
 | restricted                 | :lock: `:lock:`
+| Songbook                   | :musical_note: `:musical_note:`
 
 #### References
 * https://gitmoji.carloscuesta.me/
