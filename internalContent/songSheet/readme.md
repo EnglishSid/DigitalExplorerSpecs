@@ -1,8 +1,5 @@
 ### Summary Statement
-Understanding and relating key technology shifts to client outcomes is the key challenge for Digital Transformation.Progressing those client requirements to fully delivered solutions is the power of DXC Digital Explorer and position DXC as a knowledge driven business.
-
-
-
+Understanding and relating key technology shifts to client outcomes is the key challenge for Digital Transformation.  Progressing those client requirements to fully delivered solutions is the power of DXC Digital Explorer and position DXC as a knowledge driven business.
 
 ### Elevator Pitch
 
@@ -13,8 +10,6 @@ DXC Digital Explorer is our primary platform for shaping digital engagements.  I
 1. Take ideas from roadmaps and create projects and solutions via DXC’s Accelerated Solution Development methodology
 
 DXC is Digital Delivered.
-
-
 
 ### Narrative
 Global enterprises are making the shift to digital technology to produce better business outcomes. As they do, they face challenges in relating their business strategy to the potential of the technical options available.
