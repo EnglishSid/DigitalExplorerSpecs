@@ -35,3 +35,11 @@
 |Digital KM| Andy Sollis|
 |Healthcare Providers|Cheryl Houston-Walmsley|
 |Life Sciences|Cheryl Houston-Walmsley|
+|Banking & Capital Markets|	Rajarshi Banerjee|
+|CME & Tech|	Kiran Tupal Gopal|
+|Consumer Industries & Retail|	Ujjwala Darvemula|
+|Energy|	Ankit Sharma|
+|Insurance|	Saket Chitlangia|
+|Manufacturing|	Jaideep Sundaram<br>Roshan Gowri Devadoss|
+|Public Sector|	Gaurav Narang|
+|Travel, Transportation & Hospitality|	 Sridhar Podeti|
