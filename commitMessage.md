@@ -27,6 +27,7 @@
 | tips                       | :bulb: `:bulb:`
 | restricted                 | :lock: `:lock:`
 | Songbook                   | :musical_note: `:musical_note:`
+| Rocket                     | :rocket: `:rocket:`
 
 #### References
 * https://gitmoji.carloscuesta.me/
