@@ -10,8 +10,10 @@ about: Suggest an idea for digitalexplorer.dxc.com
 - [ ] Roadmaps
 - [ ] Solutions
 - [ ] Workspaces
+- [ ] Playbooks
 - [ ] Explorer
 
+* place an x against the related module 
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
