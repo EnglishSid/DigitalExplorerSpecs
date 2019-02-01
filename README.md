@@ -20,9 +20,10 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 * [DXC Digital Explorer 2 slide primer](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/SongSheet/readme.md)
 * [Introduction Presentation](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/Presentations/DXC%20Digital%20Explorer.Overview.ShortVersion.pptx)
 * [DXC Digital Explorer key features](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/deFeatures.md)
+* [DXC Digital Explorer Achievements](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/Achievements.md)
 * [Release Notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes)
 * [Contributing to Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/contributing.md)
-* [F.A.Q.]()
+* [F.A.Q.](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/SongSheet/faq.md)
 
 ### :books: Meta Models
 * [Complete Model](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/completeModel.md)
