@@ -2,6 +2,7 @@
 
 
 ## White Belt
+![](trainingBadges/WhiteBelt.png)<br>
 
 Introduction and awareness of the DE platform
 
@@ -16,6 +17,8 @@ Introduction and awareness of the DE platform
 |Exam|David Stevens and Andy Sollis|**TO DO**
 
 ## Yellow Belt
+
+![](trainingBadges/YellowBelt.png)<br>
 Business scenarios and use cases
 Creating your client's digital blueprint
 
@@ -30,7 +33,7 @@ Creating your client's digital blueprint
 |Earn `onboard roadmaps` Achievement|David Stevens|_Need to investigate if this can be automated_
 
 ## Green Belt
-
+![](trainingBadges/GreenBelt.png)<br>
 Contribution of trends and solutions
 
 |Topic|Owner|Link
@@ -43,7 +46,7 @@ Contribution of trends and solutions
 |Earn `onboard solutions` Achievement|David Stevens|_Need to investigate if this can be automated_
 
 ## Black Belt
-
+![](trainingBadges/BlackBelt.png)<br>
 Governance and champions
 
 |Topic|Owner|Link
