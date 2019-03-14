@@ -14,7 +14,7 @@ Introduction and awareness of the DE platform
 |Overview of the Workspace module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Workspaces/readme.md)
 |Overview of the Roadmaps module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/RoadmapOverview.md)
 |Overview of the Playbooks Module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Playbooks/PlaybookOverview.md)
-|Exam|David Stevens|**TO DO**
+|Exam|David Stevens|[Link](examQuestions.md)
 
 ## Yellow Belt
 
