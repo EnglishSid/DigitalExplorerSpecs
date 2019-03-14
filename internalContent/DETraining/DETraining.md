@@ -1,4 +1,4 @@
-# Digital Explorer Training :construction:
+# :construction: Digital Explorer Training :construction:
 
 
 ## White Belt
@@ -9,7 +9,7 @@ Introduction and awareness of the DE platform
 |Topic|Owner|Link
 |---|---|---|
 |Intro 101| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/101/DXCDE101.md)
-|Overview of the Trends Module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Trends/Trends102/readme.md)
+|Overview of the Trends Module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Trends/Trends100/readme.md)
 |Overview of the Solutions Module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/tree/master/training/Solutions)
 |Overview of the Workspace module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Workspaces/readme.md)
 |Overview of the Roadmaps module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/RoadmapOverview.md)

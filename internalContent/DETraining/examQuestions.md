@@ -3,7 +3,10 @@
 
 ### Trends 
 
+Does the trends module allow users to contribute their own industry use cases?
 
+- Yes (correct answer)
+- No
 
 ### Solutions
 
@@ -32,4 +35,11 @@ Who can vote on Ideas?
 
 ### Playbooks
 
+Select two potential use cases for the Playbooks module
 
+- Industry overviews
+- Technology Showcases
+- Delivery center showcases
+- Summary report from Digital Explorer workspace analyst **
+
+(all are correct)
