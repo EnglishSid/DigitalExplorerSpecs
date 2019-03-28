@@ -1,5 +1,19 @@
 ## DXCU Course Information
 
+https://dxcportal.sharepoint.com/sites/dxcUniversityLearningOperations/dxcurequestforms/SitePages/Home.aspx 
+
+
+
+Course Title : DXC Digital Explorer - Introduction 2019
+Abstract: Overview of the DXC Digital Explorer Platform
+Description:Overview of the DXC Digital Explorer Platform
+Objectives : Provide an overview of the DXC Digital Explorer Platform
+Taxonomy Status : Next Gen
+Link : https://dxc.mediaplatform.com/#!/video/1999/DXC+Digital+Explorer+Introduction+Video.
+Audience : Employee
+Duration (00:04)
+
+
 Course Title : DXC Digital Explorer - The Trends Module
 Abstract: Overview of the DXC Digital Explorer Trends Module
 Description:Overview of the DXC Digital Explorer Trends Module
