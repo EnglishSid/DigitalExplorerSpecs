@@ -6,9 +6,10 @@
 
 Introduction and awareness of the DE platform
 
-|Topic|Owner|Link
-|---|---|---|
-|Intro 101| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/101/DXCDE101.md)
+|Topic|Owner|Link|DXCULink
+|---|---|---|---|
+|Intro 101| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/101/DXCDE101.md)|[DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/00054446)
+|1 minute introduction to DE|David Stevens| | |
 |Overview of the Trends Module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Trends/Trends100/readme.md)
 |Overview of the Solutions Module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/tree/master/training/Solutions)
 |Overview of the Workspace module| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Workspaces/readme.md)
