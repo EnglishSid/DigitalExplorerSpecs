@@ -18,7 +18,7 @@ Which 2 architecture layers does the Digital Explorer Solutions module include?
 
 ### Workspaces
 
-Which other Digital Explorer modules can you `Send` your workplace content to?
+Which Digital Explorer modules can you `Send` your workplace content to?
 
 - Solutions?
 - Roadmaps?
