@@ -4,6 +4,8 @@
 ## White Belt
 ![](trainingBadges/WhiteBelt.png)<br>
 
+- [DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/app/shared;spf-url=common%2Flearningeventdetail%2Fcurra000000000004384)
+
 Introduction and awareness of the DE platform
 
 |Topic|Owner|Link|DXCULink|Duration|
