@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|---|
 |Aerospace & Defence| |Chris Lennon| Jack Story | Jürgen Dettling || Ged Cunliffe<br>Phil Lathaen<br>Paul Comis||
 |Airlines|Akshay Saigal| John Tsucalas | Paul Canterbury | Jürgen Dettling | | Jason Campion ||
-|Automotive|John Wei| Anthony Maiello | Paul Canterbury | Jürgen Dettling | |Jürgen Dettling||
+|Automotive|John Wei| Anthony Maiello | Paul Canterbury | Jürgen Dettling | |Phil Mullis||
 |Banking|Randeep Kapur|Tom Hetterscheidt|Rob McKenzie<br>Greg van der Pennen<br>Joseph Hakeem<br>|Mirza Ahmad|Cesc Gudayol<br>Maria  Rodriguez<br>Agostino Rosso<br>Juan Juan|Andrew Dare|V. Balasubramanian(Bala)|
 |Communication Service Providers| |Colin Constable| Mark Nebreda | - | | Ron Brown||
 |Consumer| |Rene Aerdts|Paul Canterbury	| |Fabrice Oudert|Stuart Lawrence||
