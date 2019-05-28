@@ -1,6 +1,5 @@
 # :construction: Digital Explorer Training :construction:
 
-
 ## White Belt
 ![](trainingBadges/whitebelt.jpg)<br>
 
@@ -24,11 +23,11 @@ Introduction and awareness of the DE platform
 ## Yellow Belt
 
 ![](trainingBadges/YellowBelt.png)<br>
-Business scenarios and use cases
-Creating your client's digital blueprint
+**Business scenarios and use cases**
 
 |Topic|Owner|Link
 |---|---|---|
+|Platform - The information journey - Key terms within the Digital Explorer platform|David Stevens|
 |Playbooks - View and Present playbooks|David Stevens|
 |Playbooks - Create Account/client playbooks|David Stevens|
 |Workspaces - Participate in Account workspaces|David Stevens|
@@ -38,6 +37,7 @@ Creating your client's digital blueprint
 
 ## Orange Belt
 ![](trainingBadges/OrangeBelt.png)<br>
+**Creating your client's digital blueprint**
 
 |Topic|Owner|Link
 |---|---|---|
@@ -49,32 +49,37 @@ Creating your client's digital blueprint
 
 ## Green Belt
 ![](trainingBadges/GreenBelt.png)<br>
-Contribution of trends and solutions
+**Contribution of trends and solutions**
 
 |Topic|Owner|Link
 |---|---|---|
 |Trends - Adding a new trend|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Trends/ContributingTrends/readme.md)
 |Solutions - Adding a new solution|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/tree/master/training/Solutions/SubmittingSolutions)
-|Workspaces - Create a shared workspace|
+|Workspaces - Create a shared workspace|David Stevens|
+|Playbooks - Create Open playbooks|David Stevens|
 
 
 ## Blue Belt
 ![](trainingBadges/BlueBelt.png)<br>
-Governance
-Create Open playbooks
+**Governance**
+
+|Topic|Owner|Link
+|---|---|---|
+|Trends - Reviewing trends|David Stevens|
+
 
 
 ## Black Belt
 ![](trainingBadges/BlackBelt.png)<br>
 Advanced Skills
 
-how to raise defects and enhancement requests
-
-
 |Topic|Owner|Link
 |---|---|---|
-|Reviewing trends|David Stevens|**TO DO**
-|How to promote and share DE content|David Stevens|**TO DO**
-|Guidance for a DE workshop|David Stevens|**TO DO**
-
-
+|Solutions - Add solutions to workspaces/playbooks|David Stevens|
+|Roadmaps - Creating a template|David Stevens|
+|Roadmaps - using a template|David Stevens|
+|Roadmaps - Program Groups|David Stevens|
+|Roadmaps - Idea 2 Solution|David Stevens|
+|Roadmaps - Client access to a roadmap|David Stevens|
+|Playbooks - Creator tips|David Stevens|
+|Platform - How to raise defects and enhancement requests|David Stevens|
