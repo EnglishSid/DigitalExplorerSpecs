@@ -2,7 +2,7 @@
 
 
 ## White Belt
-![](trainingBadges/WhiteBelt.png)<br>
+![](trainingBadges/whitebelt.jpg)<br>
 
 - [DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/app/shared;spf-url=common%2Flearningeventdetail%2Fcurra000000000004384)
 
@@ -27,15 +27,25 @@ Introduction and awareness of the DE platform
 Business scenarios and use cases
 Creating your client's digital blueprint
 
+|Topic|Owner|Link
+|---|---|---|
+|Playbooks - View and Present playbooks|David Stevens|
+|Playbooks - Create Account/client playbooks|David Stevens|
+|Workspaces - Participate in Account workspaces|David Stevens|
+|Solutions -  Search for Solutions|David Stevens|
+|Trends - Review an industry Trends|David Stevens|
+
+
+## Orange Belt
+![](trainingBadges/OrangeBelt.png)<br>
 
 |Topic|Owner|Link
 |---|---|---|
-|Client use case|Phil Mullis|**TO DO**
-|Day in the life| David Stevens|**TO DO**
-|Creating your digital blueprint|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/InitialSetup.md)
-|Blueprint 2 ideas|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/RoadmapOutput.md) 
-|Exam|David Stevens and Phil Mullis|**TO DO**
-|Earn `onboard roadmaps` Achievement|David Stevens|_Need to investigate if this can be automated_
+|Workspace 2 Roadmaps - prepare a roadmap from analyzed content|David Stevens|
+|Roadmaps - Create account roadmaps (IA/Blueprint)|David Stevens|
+|Roadmaps -  Review and contribute to account roadmaps, ideas and initiatives|David Stevens|
+|Blueprint idea to solution Canvas|David Stevens & David Knight|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/Idea2Solution.md)
+
 
 ## Green Belt
 ![](trainingBadges/GreenBelt.png)<br>
@@ -43,16 +53,23 @@ Contribution of trends and solutions
 
 |Topic|Owner|Link
 |---|---|---|
-|Adding a new trend|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Trends/ContributingTrends/readme.md)
-|Adding a new solution|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/tree/master/training/Solutions/SubmittingSolutions)
-|Blueprint idea to solution Canvas|David Stevens & David Knight|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/Idea2Solution.md)
-|Exam|David Stevens and David Knight|**TO DO**
-|Earn `onboard trends` Achievement|David Stevens|_Need to investigate if this can be automated_
-|Earn `onboard solutions` Achievement|David Stevens|_Need to investigate if this can be automated_
+|Trends - Adding a new trend|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Trends/ContributingTrends/readme.md)
+|Solutions - Adding a new solution|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/tree/master/training/Solutions/SubmittingSolutions)
+|Workspaces - Create a shared workspace|
+
+
+## Blue Belt
+![](trainingBadges/BlueBelt.png)<br>
+Governance
+Create Open playbooks
+
 
 ## Black Belt
 ![](trainingBadges/BlackBelt.png)<br>
-Governance and champions
+Advanced Skills
+
+how to raise defects and enhancement requests
+
 
 |Topic|Owner|Link
 |---|---|---|
