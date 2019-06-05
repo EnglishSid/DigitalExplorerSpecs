@@ -18,21 +18,22 @@ Introduction and awareness of the DE platform
 |Summary 101| David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/101/DXCDE101.md)|[DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/00054446)|00:40|
 |Exam|David Stevens|[Link](examQuestions.md)||00:05|
 
-- [Detailed breakdown for whitebelt courses](DXCUWhiteBeltCourses.md)
+- [Detailed breakdown for white belt courses](DXCUWhiteBeltCourses.md)
 
 ## Yellow Belt
 
 ![](trainingBadges/YellowBelt.png)<br>
 **Business scenarios and use cases**
 
-|Topic|Owner|Link
-|---|---|---|
-|Platform - The information journey - Key terms within the Digital Explorer platform|David Stevens|
-|Playbooks - View and Present playbooks|David Stevens|
-|Playbooks - Create Account/client playbooks|David Stevens|
-|Workspaces - Participate in Account workspaces|David Stevens|
-|Solutions -  Search for Solutions|David Stevens|
-|Trends - Review an industry Trends|David Stevens|
+|Topic|Owner|DXCULink|Playbook
+|---|---|---|---|---|
+|Introduction to the Yellow belt training|David Stevens|TODO|NA
+|Platform - The information journey - Key terms within the Digital Explorer platform|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196768)
+|Playbooks - View and Present playbooks|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)
+|Workspaces - Participate in Account workspaces|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606107)
+|Playbooks - Create Account/client playbooks|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196700)
+|Solutions -  Search for Solutions|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196703)
+|Trends - Review an industry Trends|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)
 
 
 ## Orange Belt
@@ -41,7 +42,7 @@ Introduction and awareness of the DE platform
 
 |Topic|Owner|Link
 |---|---|---|
-|Workspace 2 Roadmaps - prepare a roadmap from analyzed content|David Stevens|
+|Workspace 2 Roadmaps - prepare a roadmap from analysed content|David Stevens|
 |Roadmaps - Create account roadmaps (IA/Blueprint)|David Stevens|
 |Roadmaps -  Review and contribute to account roadmaps, ideas and initiatives|David Stevens|
 |Blueprint idea to solution Canvas|David Stevens & David Knight|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/Idea2Solution.md)
