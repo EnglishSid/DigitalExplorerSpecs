@@ -11,9 +11,9 @@
 | Weekly numbers             | :chart_with_downwards_trend: `:chart_with_downwards_trend:`|
 | Updating team members      | :busts_in_silhouette: `:busts_in_silhouette:`|
 | Style updates              | :lipstick: `:lipstick:`
-| general cleanup            | :wastebasket: `:wastebasket:`
+| general clean-up            | :wastebasket: `:wastebasket:`
 | Work in Progress           | :construction: `:construction:`
-| Templates & Mockups        | :art: `:art:`
+| Templates & Mock-ups        | :art: `:art:`
 | Graph Models               | :anchor: `:anchor:`
 | Digital Stories            | :books: `:books:`
 | Training Videos            | :movie_camera: `:movie_camera:`
