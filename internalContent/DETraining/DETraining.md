@@ -27,15 +27,15 @@ Introduction and awareness of the DE platform
 
 - [DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/learningeventdetail/curra000000000004500)
 
-|Topic|Owner|DXCULink|Playbook
-|---|---|---|---|---|
-|Introduction to the Yellow belt training|David Stevens|TODO|NA
-|Platform - The information journey - Key terms within the Digital Explorer platform|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196768)
-|Playbooks - View and Present playbooks|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)
-|Workspaces - Participate in Account workspaces|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606107)
-|Playbooks - Create Account/client playbooks|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196700)
-|Solutions -  Search for Solutions|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196703)
-|Trends - Review an industry Trends|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)
+|Topic|Owner|DXCULink|Playbook|
+|---|---|---|---|
+|Introduction to the Yellow belt training|David Stevens|TODO|NA|
+|Platform - The information journey - Key terms within the Digital Explorer platform|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196768)|
+|Playbooks - View and Present playbooks|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)|
+|Workspaces - Participate in Account workspaces|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606107)|
+|Playbooks - Create Account/client playbooks|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196700)|
+|Solutions -  Search for Solutions|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196703)|
+|Trends - Review an industry Trends|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)|
 
 - [Detailed breakdown for yellow belt courses](DXCUYellowBeltCourses.md)
 
@@ -45,8 +45,8 @@ Introduction and awareness of the DE platform
 **Creating your client's digital blueprint**
 
 |Topic|Owner|DXCULink|Playbook
-|---|---|---|---|---|
-|Introduction to the Yellow belt training|David Stevens|TODO|NA
+|---|---|---|---|
+|Introduction to the Yellow belt training|David Stevens|TODO|NA|
 |Workspace 2 Roadmaps - Prepare a roadmap from analysed content|David Stevens|
 |Roadmaps - Create account roadmaps (IA/Blueprint)|David Stevens|
 |Roadmaps -  Review and contribute to account roadmaps, ideas and initiatives|David Stevens|
