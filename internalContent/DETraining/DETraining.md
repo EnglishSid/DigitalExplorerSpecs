@@ -1,7 +1,7 @@
 # :construction: Digital Explorer Training :construction:
 
 ## White Belt
-![](trainingBadges/whitebelt.jpg)<br>
+![](trainingBadges/WhiteBeltr2.png)<br>
 
 - [DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/app/shared;spf-url=common%2Flearningeventdetail%2Fcurra000000000004384)
 
@@ -22,8 +22,10 @@ Introduction and awareness of the DE platform
 
 ## Yellow Belt
 
-![](trainingBadges/YellowBelt.png)<br>
+![](trainingBadges/YellowBeltR2.png)<br>
 **Business scenarios and use cases**
+
+- [DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/learningeventdetail/curra000000000004500)
 
 |Topic|Owner|DXCULink|Playbook
 |---|---|---|---|---|
@@ -35,21 +37,24 @@ Introduction and awareness of the DE platform
 |Solutions -  Search for Solutions|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196703)
 |Trends - Review an industry Trends|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)
 
+- [Detailed breakdown for yellow belt courses](DXCUYellowBeltCourses.md)
+
 
 ## Orange Belt
-![](trainingBadges/OrangeBelt.png)<br>
+![](trainingBadges/OrangeBeltR2.png)<br>
 **Creating your client's digital blueprint**
 
-|Topic|Owner|Link
-|---|---|---|
-|Workspace 2 Roadmaps - prepare a roadmap from analysed content|David Stevens|
+|Topic|Owner|DXCULink|Playbook
+|---|---|---|---|---|
+|Introduction to the Yellow belt training|David Stevens|TODO|NA
+|Workspace 2 Roadmaps - Prepare a roadmap from analysed content|David Stevens|
 |Roadmaps - Create account roadmaps (IA/Blueprint)|David Stevens|
 |Roadmaps -  Review and contribute to account roadmaps, ideas and initiatives|David Stevens|
 |Blueprint idea to solution Canvas|David Stevens & David Knight|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/Idea2Solution.md)
 
 
 ## Green Belt
-![](trainingBadges/GreenBelt.png)<br>
+![](trainingBadges/GreenBeltR2.png)<br>
 **Contribution of trends and solutions**
 
 |Topic|Owner|Link
@@ -61,7 +66,7 @@ Introduction and awareness of the DE platform
 
 
 ## Blue Belt
-![](trainingBadges/BlueBelt.png)<br>
+![](trainingBadges/BlueBeltR2.png)<br>
 **Governance**
 
 |Topic|Owner|Link
@@ -71,7 +76,7 @@ Introduction and awareness of the DE platform
 
 
 ## Black Belt
-![](trainingBadges/BlackBelt.png)<br>
+![](trainingBadges/BlackBeltR2.png)<br>
 Advanced Skills
 
 |Topic|Owner|Link

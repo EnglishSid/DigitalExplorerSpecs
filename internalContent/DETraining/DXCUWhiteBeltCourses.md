@@ -5,6 +5,8 @@
 
 ## White Belt
 
+![](trainingBadges/WhiteBeltr2.png)<br>
+
 ---
 - DXCU Course ID : 00054479
 - DXCU Course Link :https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/ledetail/00054479   
