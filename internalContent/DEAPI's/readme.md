@@ -2,5 +2,6 @@
 
 
 ### [API Requests](apiRequests.md)
-### [How to Use](DEAPIUsage.md)
+### [Getting starting with Postman](DEAPIUsage.md)
+### [Connecting via PowerBI](PowerBI.md)
 
