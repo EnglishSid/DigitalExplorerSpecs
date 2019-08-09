@@ -11,7 +11,7 @@ subject line : DXC University Offline Course/Curricula Request Submission
 ---
 ## Introduction to the DXC Digital Explorer Orange belt training
 
-- DXCU Course ID : 
+- DXCU Course ID : 00058994
 - DXCU Course Link :  
 - Course Title : Introduction to the DXC Digital Explorer Orange belt training
 - Abstract: Introduction to the DXC Digital Explorer Orange belt training
@@ -30,7 +30,7 @@ Access the DXC Digital Explorer platform via https://digitalexplorer.dxc.com
 
 ## How to join an existing or create a new client account in DXC Digital Explorer
 
-- DXCU Course ID : 
+- DXCU Course ID : 00058966
 - DXCU Course Link : 
 - Course Title : How to join an existing or create a new client account in DXC Digital Explorer
 - Abstract: How to join an existing or create a new client account in DXC Digital Explorer
@@ -49,7 +49,7 @@ Access the DXC Digital Explorer platform via https://digitalexplorer.dxc.com
 
 ## Creating a Digital Roadmap from your Digital Explorer Workspace
 
-- DXCU Course ID : 
+- DXCU Course ID : 00058970
 - DXCU Course Link : 
 - Course Title : Creating a Digital Roadmap from your Digital Explorer Workspace
 - Abstract: Creating a Digital Roadmap from your Digital Explorer Workspace
@@ -68,7 +68,7 @@ Access the DXC Digital Explorer platform via https://digitalexplorer.dxc.com
 
 ## Digital Explorer - Creating a Digital Roadmap
 
-- DXCU Course ID : 
+- DXCU Course ID : 00058963
 - DXCU Course Link : 
 - Course Title : Digital Explorer - Creating a Digital Roadmap
 - Abstract: How to create your digital roadmap within DXC Digital Explorer
@@ -76,7 +76,7 @@ Access the DXC Digital Explorer platform via https://digitalexplorer.dxc.com
 
 Access the DXC Digital Explorer platform via https://digitalexplorer.dxc.com
  
-- Objectives : Ceate your digital roadmap within DXC Digital Explorer
+- Objectives : Create your digital roadmap within DXC Digital Explorer
 - Taxonomy Status : Next Gen
 - Link : https://dxc.mediaplatform.com/#!/video/3870/Digital+Explorer+-+Creating+a+Digital+Roadmap
 - Audience : Employee
@@ -86,19 +86,19 @@ Access the DXC Digital Explorer platform via https://digitalexplorer.dxc.com
 
 ## Create a client summary report using the DXC Digital Explorer Playbook module
 
-- DXCU Course ID : 
+- DXCU Course ID : 00058964
 - DXCU Course Link :  
-- Course Title : 
-- Abstract: 
-- Description: 
+- Course Title : Digital Explorer - Create a client summary report using the DXC Digital Explorer Playbook module
+- Abstract: How to create an interactive playbook to share a roadmap
+- Description:  How to create an interactive playbook to share the keypoints and potential next steps of your Digital Roadmap with your client
 
-
+A step-by-step guide on creating a client facing playbook.
 Access the DXC Digital Explorer platform via https://digitalexplorer.dxc.com
  
-- Objectives : 
+- Objectives : Create a playbook to share with your client
 - Taxonomy Status : Next Gen
-- Link : 
+- Link : https://dxc.mediaplatform.com/#!/video/3978/Digital+Explorer+-+Create+a+client+summary+report+using+the+DXC+Digital+Explorer+Playbook+module 
 - Audience : Employee
-- Duration : (00:00)
+- Duration : (00:10)
   
 ---

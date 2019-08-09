@@ -26,16 +26,17 @@ Introduction and awareness of the DE platform
 **Business scenarios and use cases**
 
 - [DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/learningeventdetail/curra000000000004500)
+- [Playbook shelf](https://digitalexplorer.dxc.com/pb/playbook-shelf/198660)
 
-|Topic|Owner|DXCULink|Playbook|
-|---|---|---|---|
-|Introduction to the Yellow belt training|David Stevens|TODO|NA|
-|Platform - The information journey - Key terms within the Digital Explorer platform|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196768)|
-|Playbooks - View and Present playbooks|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)|
-|Workspaces - Participate in Account workspaces|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606107)|
-|Playbooks - Create Account/client playbooks|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196700)|
-|Solutions -  Search for Solutions|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/196703)|
-|Trends - Review an industry Trends|David Stevens|TODO|[Playbook](https://digitalexplorer.dxc.com/pb/playbook/606480)|
+|Topic|Owner|
+|---|---|
+|Introduction to the Yellow belt training|David Stevens|
+|Platform - The information journey - Key terms within the Digital Explorer platform|David Stevens|
+|Playbooks - View and Present playbooks|David Stevens|
+|Workspaces - Participate in Account workspaces|David Stevens|
+|Playbooks - Create Account/client playbooks|David Stevens|
+|Solutions -  Search for Solutions|David Stevens|
+|Trends - Review an industry Trends|David Stevens|
 
 - [Detailed breakdown for yellow belt courses](DXCUYellowBeltCourses.md)
 
@@ -44,25 +45,32 @@ Introduction and awareness of the DE platform
 ![](trainingBadges/OrangeBeltR2.png)<br>
 **Creating your client's digital blueprint**
 
-|Topic|Owner|DXCULink|Playbook
-|---|---|---|---|
-|Introduction to the Yellow belt training|David Stevens|TODO|NA|
-|Workspace 2 Roadmaps - Prepare a roadmap from analysed content|David Stevens|
-|Roadmaps - Create account roadmaps (IA/Blueprint)|David Stevens|
-|Roadmaps -  Review and contribute to account roadmaps, ideas and initiatives|David Stevens|
-|Blueprint idea to solution Canvas|David Stevens & David Knight|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/Idea2Solution.md)
+- [DXCU](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/common/learningeventdetail/curra000000000004560)
+- [Playbook shelf](https://digitalexplorer.dxc.com/pb/playbook-shelf/202066)
 
+|Topic|Owner|
+|---|---|
+|Introduction to the DXC Digital Explorer Orange belt training|David Stevens
+|How to join an existing or create a new client account in DXC Digital Explorer|David Stevens
+|Creating a Digital Roadmap from your Digital Explorer Workspace|David Stevens
+|How to create your digital roadmap within DXC Digital Explorer|David Stevens
+|Create a client summary report using the DXC Digital Explorer Playbook module|David Stevens
+
+- [Detailed breakdown for orange belt courses](DXCUOrangeBeltCourses.md)
 
 ## Green Belt
 ![](trainingBadges/GreenBeltR2.png)<br>
 **Contribution of trends and solutions**
 
-|Topic|Owner|Link
-|---|---|---|
-|Trends - Adding a new trend|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Trends/ContributingTrends/readme.md)
-|Solutions - Adding a new solution|David Stevens|[Link](https://github.com/dxc-technology/dxc-digitalexplorer/tree/master/training/Solutions/SubmittingSolutions)
+|Topic|Owner|
+|---|---|
 |Workspaces - Create a shared workspace|David Stevens|
 |Playbooks - Create Open playbooks|David Stevens|
+|Trends - Adding a new trend|David Stevens
+|Solutions - Adding a new solution|David Stevens|
+|Roadmaps - Idea 2 Solution|David Stevens|
+
+
 
 
 ## Blue Belt
@@ -72,20 +80,20 @@ Introduction and awareness of the DE platform
 |Topic|Owner|Link
 |---|---|---|
 |Trends - Reviewing trends|David Stevens|
-
+|Platform - Orphaned Content|David Stevens
 
 
 ## Black Belt
 ![](trainingBadges/BlackBeltR2.png)<br>
 Advanced Skills
 
-|Topic|Owner|Link
-|---|---|---|
+|Topic|Owner|
+|---|---|
 |Solutions - Add solutions to workspaces/playbooks|David Stevens|
 |Roadmaps - Creating a template|David Stevens|
-|Roadmaps - using a template|David Stevens|
+|Roadmaps - Using a template|David Stevens|
 |Roadmaps - Program Groups|David Stevens|
-|Roadmaps - Idea 2 Solution|David Stevens|
 |Roadmaps - Client access to a roadmap|David Stevens|
 |Playbooks - Creator tips|David Stevens|
 |Platform - How to raise defects and enhancement requests|David Stevens|
+|Platform - Building a custom PowerBI dashboard|David Stevens
