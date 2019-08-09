@@ -41,7 +41,7 @@ For integration testing the URL is https://deplatformint.dxc.com/
 
 1. Add a new data source as described above
 2. transformations
-   1. source to table
+   1. Convert into table
    2. Expanded Column1 
    3. set numeric values to numeric - default is string
 3. Once connected save `Close and Apply`
