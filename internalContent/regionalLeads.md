@@ -43,3 +43,6 @@
 |Manufacturing|	Jaideep Sundaram<br>Roshan Gowri Devadoss|
 |Public Sector|	Gaurav Narang|
 |Travel, Transportation & Hospitality|	 Sridhar Podeti|
+
+
+# Regional Champions
