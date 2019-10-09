@@ -21,7 +21,7 @@
 |Life Sciences|Akshay Saigal|Rikin Patel|David Pare||Iñaki Galera|Stuart Lawrence|Femi Ladega|
 |Industrial Manufacturing|Venkatesh Ramakrishnaiah|Bob Gosselin|Mark Nebreda<br>John Godfrey<br/>|Chris Fangmann|Stephane Torlet|Phil Mullis||
 |Insurance|Subramanian Gopalaratnam|Phil Karecki|Daniel Biondi;  Paul Cronin<br>Andrew Perrett<br>Craig Newsome|Kristian Jeeves||Maria Solano  ||
-|Oil & Gas||Tom Nickerson|Mark Nebreda|||Kishore Chekuri<br>Andrew Taylor||
+|Oil & Gas||Tom Nickerson|Mark Nebreda|||Andrew Taylor||
 |Rail & Freight|	Akshay Saigal|John Tsucalas|Paul Canterbury||Yves Vanderbeken|Jason Campion||
 |Retail||TBA|Paul Canterbury||Fabrice Oudert|Stuart Lawrence||
 |Utilities||John Wei|Mark Nebreda|Hannes Leb|Agostino Rosso<br>Juan Juan|Kishore Chekuri<br>Sai Penumuru||
