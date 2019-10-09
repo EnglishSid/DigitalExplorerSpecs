@@ -24,7 +24,7 @@
 |Oil & Gas||Tom Nickerson|Mark Nebreda|||Andrew Taylor||
 |Rail & Freight|	Akshay Saigal|John Tsucalas|Paul Canterbury||Yves Vanderbeken|Jason Campion||
 |Retail||TBA|Paul Canterbury||Fabrice Oudert|Stuart Lawrence||
-|Utilities||John Wei|Mark Nebreda|Hannes Leb|Agostino Rosso<br>Juan Juan|Kishore Chekuri<br>Sai Penumuru||
+|Utilities||John Wei|Mark Nebreda|Hannes Leb|Agostino Rosso<br>Juan Juan|Sai Penumuru||
 |CME||Colin Constable|Paul Canterbury|||Ron Brown||
 |Public Sector|Yik Joon Ho|Howard Hinman|Jack Story<br>Paul Sluis<br>John Godfrey<br>|Peter Grostol|Yves Vanderbeken<br>Luciano Boschetti|Ron Brown<br>Paul Teece||
 
