@@ -12,7 +12,7 @@ Pivot table against `Badge Name` & `Person Full Name`
 |Aug 9th 2019|593|55|32
 |Sept 5th 2019|847|75|45
 |Sept 16th 2019|951|82|53
-
-
+|Oct 1st|1070|92|58
+|Oct 7th|1102|95|60
 
 
