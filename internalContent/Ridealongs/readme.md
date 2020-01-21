@@ -27,7 +27,9 @@ The initial ride-along can be between 1 and 2 weeks depending on the level of en
 The Ride-along team will provide all content created to the client team and a set of suggested next steps.   The Ride-along team are also available to continue the support of the client journey if required.
 
 ## Requests
-Contact [David Stevens](mailto:davidstevens@dxc.com?subject=DE_Ride-along) or [Kimberly Gennusa](mailto:kgennusa@dxc.com?subject=DE_Ride-along) to request your ride-along
+
+Please raise your request [here](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues/new?template=rideAlong_request.md)
+
 
 ## Sample Output
 
