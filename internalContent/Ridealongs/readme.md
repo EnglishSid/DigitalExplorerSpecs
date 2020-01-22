@@ -39,7 +39,7 @@ Please raise your request [here](https://github.dxc.com/DigitalExplorer/Digital-
 
 ---
 
-References
+### *References*
 
 - [Getting started with DXC Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/200/readme.md)
 - [DXC Digital Explorer White Belt training](https://dxc.sabacloud.com/Saba/Web_spf/NA2PRD0005/app/shared;spf-url=common%2Flearningeventdetail%2Fcurra000000000004384)
