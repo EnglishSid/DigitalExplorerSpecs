@@ -1,6 +1,6 @@
-# Digital Explorer Ride-alongs
+![image](images/RideAlong.png)<br>
 
-The Digital Explorer ride-alongs are aimed to support account teams to help them leverage the highest value from the [DXC Digital Explorer](https://digitalexplorer.dxc.com) platform.
+The Digital Explorer ride-along is aimed to support account teams to help them leverage the highest value from the [DXC Digital Explorer](https://digitalexplorer.dxc.com) platform.
 
 ![image](images/GeneralFlow.png)
 
@@ -19,6 +19,8 @@ The Digital Explorer ride-alongs are aimed to support account teams to help them
 - New logo/RFP analysis
 - Industry/market analysis
 - Industry Squad support
+- Preparation for Client Innovation Centre workshops
+
 
 ## Duration
 The initial ride-along can be between 1 and 2 weeks depending on the level of engagement required.
