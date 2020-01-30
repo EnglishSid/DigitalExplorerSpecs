@@ -1,6 +1,6 @@
 ---
-name: Engagement request
-about: Request a presentation or support for an enablement program for digitalexplorer.dxc.com
+name: Awareness request
+about: Request a presentation or support to increase the awareness of  digitalexplorer.dxc.com
 
 ---
 
