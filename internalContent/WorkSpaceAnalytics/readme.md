@@ -27,3 +27,5 @@ return distinct c.name as Item , sum(r.occurrence) as totalCount, labels(c) as T
 order by totalCount desc
 ~~~
 
+
+
