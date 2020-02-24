@@ -32,17 +32,37 @@
 
 |Industry|KM Lead|
 |---|---|
-|Digital KM| Andy Sollis|
-|Healthcare Providers|Cheryl Houston-Walmsley|
-|Life Sciences|Cheryl Houston-Walmsley|
-|Banking & Capital Markets|	Rajarshi Banerjee|
-|CME & Tech|	Kiran Tupal Gopal|
-|Consumer Industries & Retail|	Ujjwala Darvemula|
-|Energy|	Ankit Sharma|
-|Insurance|	Saket Chitlangia|
-|Manufacturing|	Jaideep Sundaram<br>Roshan Gowri Devadoss|
-|Public Sector|	Gaurav Narang|
-|Travel, Transportation & Hospitality|	 Sridhar Podeti|
+
+Function/Capability no longer active
 
 
 # Regional Champions
+
+
+## AMS
+Rene Aerdts
+
+
+## ANZ
+Sarah James
+Mark Nebreda
+Craig Theodorou
+
+## Asia
+
+
+## NCE
+
+
+## S Europe
+Juan Juan
+Yves
+Ago
+
+
+## UKIIMEA
+Steve Nicholls
+Duncan Alexander
+Jason Campion
+Phil Mullis
+Shereen Fahmy
