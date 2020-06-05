@@ -1,7 +1,7 @@
 ---
 name: Ride-Along request
 about: Raise a request to engage the Digital Explorer Ride-along support team 
-labels: :taxi: Client Ride-along
+labels: ":taxi: Client Ride-along"
 
 ---
 

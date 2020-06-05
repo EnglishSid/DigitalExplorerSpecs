@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for digitalexplorer.dxc.com
-labels: :gem: enhancement
+labels: ":gem: enhancement"
 
 ---
 
