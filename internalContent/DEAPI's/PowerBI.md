@@ -49,3 +49,14 @@ For integration testing the URL is https://deplatformint.dxc.com/
 
 
 
+---
+
+## Issues
+
+If you receive this error
+
+![image](images/PowerBI.Error.png)<br>
+
+You will need to clear the local cache of your PowerBI desktop.
+
+File > Options and Settings > Options > Data Load > Clear Cache
