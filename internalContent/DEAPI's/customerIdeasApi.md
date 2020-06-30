@@ -64,10 +64,9 @@ to include Ideas from Workgroups, the Workgroup must be assigned to one or more 
 ### Neo4j Query
 
 ~~~
-//IDEAS WITHIN ROADMAPS
 MATCH (ci:ClientIdea)-[:ASSIGNED]->(cd:ClientDisruptor)
-  OPTIONAL MATCH (ci)-[:GOALS]->(cg:AgendaGoal) 
-  OPTIONAL MATCH (ci)-[:KPIS]->(ckpi:KPI) 
+  OPTIONAL MATCH (ci)-[:ADDRESSES]->(cg:AgendaGoal) 
+  OPTIONAL MATCH (ci)-[:ADDRESSES]->(ckpi:KPI) 
   OPTIONAL MATCH (ci)-[:RELATES_TO]->(sfdc:SFDCInfo)
    with ci,cd,cg,ckpi,sfdc
   //GET THE ASSOICATED ROADMAP AND ACCOUNT INFORMATION (IF IDEA IS LINKED TO A ROADMAP)
@@ -81,8 +80,8 @@ RETURN ci.name AS name, ci.description AS description, ci.businessProblem AS pro
   UNION
   //IDEAS WITHIN WORKGROUPS
   MATCH (ci:ClientIdea)-[:ASSIGNED]->(cd:ClientDisruptor)
-  OPTIONAL MATCH (ci)-[:GOALS]->(cg:AgendaGoal) 
-  OPTIONAL MATCH (ci)-[:KPIS]->(ckpi:KPI) 
+  OPTIONAL MATCH (ci)-[:ADDRESSES]->(cg:AgendaGoal) 
+  OPTIONAL MATCH (ci)-[:ADDRESSES]->(ckpi:KPI) 
   OPTIONAL MATCH (ci)-[:RELATES_TO]->(sfdc:SFDCInfo)
   WITH ci,cd,cg,ckpi,sfdc  //GET THE ASSOICATED WORKGROUP AND ACCOUNT (IF THE IDEA IS LINKED TO A WORKGROUP)
   MATCH (ci)-[:ASSOCIATED_TO]->(cr:WorkspaceGroup)-[:ASSIGNED]->(a:Account)
@@ -96,8 +95,8 @@ RETURN ci.name AS name, ci.description AS description, ci.businessProblem AS pro
 UNION 
 //IDEAS FROM WORKSPACES
   MATCH (ci:ClientIdea)-[:ASSIGNED]->(cd:ClientDisruptor)
-  OPTIONAL MATCH (ci)-[:GOALS]->(cg:AgendaGoal) 
-  OPTIONAL MATCH (ci)-[:KPIS]->(ckpi:KPI)  
+  OPTIONAL MATCH (ci)-[:ADDRESSES]->(cg:AgendaGoal) 
+  OPTIONAL MATCH (ci)-[:ADDRESSES]->(ckpi:KPI)  
   OPTIONAL MATCH (ci)-[:RELATES_TO]->(sfdc:SFDCInfo)
   WITH ci,cd,cg,ckpi,sfdc
   

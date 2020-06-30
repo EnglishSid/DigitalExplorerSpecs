@@ -4,5 +4,5 @@ The following API's have been designed with PowerBI and other custom report view
 
 
 - [Customer Ideas](customerIdeasApi.md)
-
+- [Solution Models](SolutionReportAPI.md)
 ---
