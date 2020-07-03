@@ -6,13 +6,12 @@
 ### Parameters
 - None
 
+### Pre-requisites 
+To include Ideas from Workgroups, the Workgroup must be assigned to one or more accounts.
+
 ### Data Model
 
 ![image](images/CustomerIdeas.PowerBI.png)<br>
-
-
-### Pre-requisites 
-to include Ideas from Workgroups, the Workgroup must be assigned to one or more accounts.
 
 
 ### DataSet

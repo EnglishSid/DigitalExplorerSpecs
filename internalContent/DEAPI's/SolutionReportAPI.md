@@ -5,26 +5,25 @@ Consists of 3 API's
 
 ## Solution, Type and Trends
 
-`main#/solution-controller/getAllSolutionTrendsGET`
+`/api/reporting/solution/getAllSolutionTrends`
 
 ## Solution and Industries
 
-`main#/solution-controller/getAllSolutionIndustriesGET`
+`/api/reporting/solution/getAllSolutionIndustries`
 
 ## Solution and Tags
 
-`main#/solution-controller/getAllSolutionTagsGET`
+`/api/reporting/solution/getAllSolutionTags`
 
 ### Parameters
+- None
+
+### Pre-requisites 
 - None
 
 ### Data Model
 
 ![image](images/SolutionReport.png)<br>
-
-
-### Pre-requisites 
-- None
 
 ### Neo4j Queries
 
