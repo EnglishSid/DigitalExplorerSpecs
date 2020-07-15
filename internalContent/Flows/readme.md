@@ -1,5 +1,1 @@
-{{< dxcdrawio type="drawing" svg="ArchitecturalFlows.svg" >}}
-
-map-image
-
-{{< /dxcdrawio >}}
+![image](ArchitecturalFlows.svg)<br>
