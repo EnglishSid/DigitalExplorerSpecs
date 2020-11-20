@@ -18,16 +18,11 @@ labels: ":frog: Preview Release"
 **Description of the issue**
 
 
-**Accepted outcome**
+**Expected outcome**
 
 
-**Steps to reproduce the issue:**
+**Steps to reproduce the issue**
 
 
-**Build Number :**
+**Build Number : **
 _Shown on the about page ~ view the footer section_
-
-
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
