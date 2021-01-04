@@ -26,12 +26,12 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 * [F.A.Q.](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/SongSheet/faq.md)
 
 ### :books: Meta Models
-* [Complete Model](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/completeModel.md)
-* [Business Trends MetaModel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/BusinessTrendMetaModel.md)
-* [Technology Trends Metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/TechnologyTrendMetaModel.md)
-* [Roadmap Metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/RoadmapMetaModel.md)
-* [Solutions MetaModel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/SolutionMetaModel.md)
-* [Workspace metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/WorkspaceMetaModel.md)
+* [Complete Model](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/DataModels/completeModel.md)
+* [Business Trends MetaModel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/DataModels/BusinessTrendMetaModel.md)
+* [Technology Trends Metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/DataModels/TechnologyTrendMetaModel.md)
+* [Roadmap Metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/DataModels/RoadmapMetaModel.md)
+* [Solutions MetaModel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/DataModels/SolutionMetaModel.md)
+* [Workspace metamodel](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/DataModels/WorkspaceMetaModel.md)
 
 ### :trophy: Awards
 * [Neo4j Graph Impact award 2018 for Digital Transformation](https://neo4j.com/news/2018-graphie-award-winners/)
